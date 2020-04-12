@@ -1,24 +1,28 @@
 
 # Knowledge Graph Radar
 
-The Knowledge Graph Radar is an attempt to keep track of interesting people, projects, applications and so forth that are (somewhat) **related to** the knowledge graph *space*.
+The Knowledge Graph Radar is an attempt to keep track of interesting people, projects, applications and so forth **related to** the [knowledge graph](https://en.wikipedia.org/wiki/Knowledge_Graph) space.
 
-## People
+![Micro-environments](resources/micro-environments2.png)
+
+## Links
+
+### People
 
 * [Andy Matuschak](https://andymatuschak.org/) is a software engineer, designer, and researcher working on technologies that expand what people can think and do
 
-## Articles
+### Articles
 
 * [Why Roam is cool](https://divinations.substack.com/p/why-roam-is-cool)
 * [It's Not You - It's Your Knowledge Base](https://kevinslin.com/organizing/its_not_you_its_your_knowledge_base/)
 * [Prefer associative ontologies to hierarchical taxonomies](https://notes.andymatuschak.org/z29hLZHiVt7W2uss2uMpSZquAX5T6vaeSF6Cy)
 
-## Libraries
+### Libraries
 
 * [TopicDB](https://github.com/brettkromkamp/topic-db) is a topic maps-based semantic graph library (using PostgreSQL for persistence)
 * [markmap-lib](https://markmap.js.org/) is a combination of Markdown syntax and mindmaps
 
-## Applications
+### Applications
 
 * [Contextualise](https://contextualise.dev/) is a tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 * [Roam](https://roamresearch.com/) is a note-taking tool for networked thought
@@ -26,10 +30,6 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Alphacortex](https://www.alphacortex.io/) is a knowledge engine that helps you organize and index your data according to a taxonomy that you define
 * [WebVOWL](http://vowl.visualdataweb.org/webvowl.html) is a web application for the interactive visualization of ontologies
 * [Polar](https://getpolarized.io/) is a knowledge manager for web pages, textbooks, PDFs, to read and study with remotely
-
-___
-
-![Codex Roboticus](resources/brave-robot3.png)
 
 ## How to Contribute
 
