@@ -6,6 +6,8 @@ The Knowledge Graph Radar is an attempt to keep track of interesting things **re
 ## Articles
 
 * [Why Roam is cool](https://divinations.substack.com/p/why-roam-is-cool)
+* [It's Not You - It's Your Knowledge Base](https://kevinslin.com/organizing/its_not_you_its_your_knowledge_base/)
+* [Prefer associative ontologies to hierarchical taxonomies](https://notes.andymatuschak.org/z29hLZHiVt7W2uss2uMpSZquAX5T6vaeSF6Cy)
 
 ## Libraries
 
@@ -19,6 +21,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting things **re
 * [KgBase](https://kgbase.com/) is a tool to build your own knowledge graphs without writing code 
 * [Alphacortex](https://www.alphacortex.io/) is a knowledge engine that helps you organize and index your data according to a taxonomy that you define
 * [WebVOWL](http://vowl.visualdataweb.org/webvowl.html) is a web application for the interactive visualization of ontologies
+* [Polar](https://getpolarized.io/) is a knowledge manager for web pages, textbooks, PDFs, to read and study with remotely
 
 ![Codex Roboticus](resources/brave-robot3.png)
 
