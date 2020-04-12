@@ -23,6 +23,10 @@ The Knowledge Graph Radar is an attempt to keep track of interesting things **re
 * [WebVOWL](http://vowl.visualdataweb.org/webvowl.html) is a web application for the interactive visualization of ontologies
 * [Polar](https://getpolarized.io/) is a knowledge manager for web pages, textbooks, PDFs, to read and study with remotely
 
+## People
+
+* [Andy Matuschak](https://andymatuschak.org/) is a software engineer, designer, and researcher working on technologies that expand what people can think and do
+
 ![Codex Roboticus](resources/brave-robot3.png)
 
 ## How to Contribute
