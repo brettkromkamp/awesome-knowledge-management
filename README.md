@@ -20,6 +20,8 @@ The Knowledge Graph Radar is an attempt to keep track of interesting things **re
 * [Alphacortex](https://www.alphacortex.io/) is a knowledge engine that helps you organize and index your data according to a taxonomy that you define
 * [WebVOWL](http://vowl.visualdataweb.org/webvowl.html) is a web application for the interactive visualization of ontologies
 
+![Codex Roboticus](resources/brave-robot3.png)
+
 ## How to Contribute
 
 * Check for open issues or open a fresh issue to start a discussion around a feature idea or a bug.
