@@ -21,8 +21,10 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Combining knowledge graphs, quickly and accurately](https://www.amazon.science/blog/combining-knowledge-graphs-quickly-and-accurately)
 * [A Brief History of Knowledge Graph's Main Ideas](http://knowledgegraph.today/)
 * [Crafting a Knowledge Graph: The Semantic Data Modeling Way](https://www.ontotext.com/blog/knowledge-graph-with-semantic-data-modeling/)
+* [The TAO of Topic Maps &mdash; Finding the Way in the Age of Infoglut](https://ontopia.net/topicmaps/materials/tao.html)
+* [An Introduction to Topic Maps](https://docs.microsoft.com/en-us/previous-versions/aa480048(v=msdn.10)?redirectedfrom=MSDN)
 
-## APIs
+### APIs
 
 * [Wikidata: Data access](https://www.wikidata.org/wiki/Wikidata:Data_access)
 
