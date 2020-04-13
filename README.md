@@ -3,7 +3,7 @@
 
 The Knowledge Graph Radar is an attempt to keep track of interesting people, projects, applications and so forth *related to* the [knowledge graph](https://en.wikipedia.org/wiki/Knowledge_Graph) space.
 
-> When I say "*related to*" I am going broad rather than narrow. That is, I will probably include a lot of things that are only loosely related to knowledge graphs per se but that **could be** of interest within the context of the development of [Contextualise](https://contextualise.dev), the (collaborative) knowledge management application that I am developing. Having said that, I will try to stay on topic as much as possible :) 
+> When I say "*related to*" I am going broad rather than narrow. That is, I will probably include a lot of things that are only loosely related to knowledge graphs per se but that **could be** of interest within the context of the development of [Contextualise](https://contextualise.dev), the (personal and collaborative) knowledge management application that I am developing. Having said that, I will try to stay on topic as much as possible :) 
 
 ![Isometric classroom](resources/isometric-classroom.png)
 
@@ -26,6 +26,9 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [How can we develop transformative tools for thought?](https://numinous.productions/ttft/)
 * [Graph Technology Landscape 2020](https://graphaware.com/graphaware/2020/02/17/graph-technology-landscape-2020.html)
 * [Cotoami, an Experimental Note-taking App Focusing on Connecting](https://medium.com/@cotoami/cotoami-an-experimental-note-taking-app-focusing-on-connecting-734928d53d2c)
+* [Exploring the CIA World Factbook](https://iancoleman.io/exploring-the-cia-world-factbook/)
+* [Complexity Explorables](https://www.complexity-explorables.org/)
+* [What is the Difference between Taxonomy and Ontology? It is a Matter of Complexity](https://www.earley.com/blog/what-difference-between-taxonomy-and-ontology-it-matter-complexity)
 
 ### APIs
 
