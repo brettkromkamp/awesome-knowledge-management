@@ -41,6 +41,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Alphacortex](https://www.alphacortex.io/) is a knowledge engine that helps you organize and index your data according to a taxonomy that you define
 * [WebVOWL](http://vowl.visualdataweb.org/webvowl.html) is a web application for the interactive visualization of ontologies
 * [Polar](https://getpolarized.io/) is a knowledge manager for web pages, textbooks, PDFs, to read and study with remotely
+* [Ontotext](https://www.ontotext.com/) is a platform that allows you to organize your information and documents into enterprise knowledge graphs
 
 ## How to Contribute
 
@@ -49,4 +50,4 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) (CC BY 4.0).
