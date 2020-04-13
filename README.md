@@ -51,6 +51,10 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Ontotext](https://www.ontotext.com/) is a platform that allows you to organize your information and documents into enterprise knowledge graphs
 * [Grakn](https://grakn.ai/) is an enterprise knowledge graph management system designed to scale
 
+### Knowledge Graphs in the Wild
+
+* [Knowledge Graph Hub to produce a knowledge graph for COVID-19 and SARS-COV-2](https://github.com/Knowledge-Graph-Hub/kg-covid-19)
+
 
 ### Miscellaneous
 
