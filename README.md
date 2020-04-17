@@ -29,6 +29,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Exploring the CIA World Factbook](https://iancoleman.io/exploring-the-cia-world-factbook/)
 * [Complexity Explorables](https://www.complexity-explorables.org/)
 * [What is the Difference between Taxonomy and Ontology? It is a Matter of Complexity](https://www.earley.com/blog/what-difference-between-taxonomy-and-ontology-it-matter-complexity)
+* [Weaving a Decentralized Semantic Web of (Personal) Knowledge](https://www.researchgate.net/publication/334126329_Weaving_a_Decentralized_Semantic_Web_of_Personal_Knowledge)
 
 ### APIs
 
