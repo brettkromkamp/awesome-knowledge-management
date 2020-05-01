@@ -51,6 +51,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Polar](https://getpolarized.io/) is a knowledge manager for web pages, textbooks, PDFs, to read and study with remotely
 * [Ontotext](https://www.ontotext.com/) is a platform that allows you to organize your information and documents into enterprise knowledge graphs
 * [Grakn](https://grakn.ai/) is an enterprise knowledge graph management system designed to scale
+* [Notion](https://www.notion.so/) is an all-in-one workspace for your notes, tasks, wikis, and databases
 
 ### Knowledge Graphs in the Wild
 
@@ -60,6 +61,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 ### Miscellaneous
 
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) is a curated list of various semantic web and linked data resources
+* [Debate: Roam Research vs. Notion](https://capiche.com/q/debate-roam-research-vs-notion)
 
 ## How to Contribute
 
