@@ -59,6 +59,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Treant.js](http://fperucic.github.io/treant-js/) is a SVG-based JavaScript library for for visualization of tree diagrams
 * [JavaScript InfoVis Toolkit](https://philogb.github.io/jit/index.html) provides tools for creating interactive data visualizations for the web
 * [Treeviz](https://github.com/PierreCapo/treeviz) is a JavaScript library to represent tree diagrams with the ability to handle dynamic data flows
+* [MindMup](https://github.com/mindmup/mapjs) is a JavaScript-based mind map canvas
 
 ### APIs
 
@@ -72,7 +73,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) is a curated list of various semantic web and linked data resources
 * [Debate: Roam Research vs. Notion](https://capiche.com/q/debate-roam-research-vs-notion)
-* [Contextualise thread on Hacker News](https://news.ycombinator.com/item?id=22282583)
+* [Contextualise thread]((https://news.ycombinator.com/item?id=22282583)) on Hacker News
 
 ## How to Contribute
 
