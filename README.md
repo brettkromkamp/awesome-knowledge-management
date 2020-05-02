@@ -73,7 +73,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) is a curated list of various semantic web and linked data resources
 * [Debate: Roam Research vs. Notion](https://capiche.com/q/debate-roam-research-vs-notion)
-* [Contextualise thread]((https://news.ycombinator.com/item?id=22282583)) on Hacker News
+* [Contextualise thread](https://news.ycombinator.com/item?id=22282583) on Hacker News
 
 ## How to Contribute
 
