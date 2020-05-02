@@ -31,16 +31,6 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [What is the Difference between Taxonomy and Ontology? It is a Matter of Complexity](https://www.earley.com/blog/what-difference-between-taxonomy-and-ontology-it-matter-complexity)
 * [Weaving a Decentralized Semantic Web of (Personal) Knowledge](https://www.researchgate.net/publication/334126329_Weaving_a_Decentralized_Semantic_Web_of_Personal_Knowledge)
 
-### APIs
-
-* [Wikidata: Data access](https://www.wikidata.org/wiki/Wikidata:Data_access)
-
-### Libraries
-
-* [TopicDB](https://github.com/brettkromkamp/topic-db) is a topic maps-based semantic graph library (using PostgreSQL for persistence)
-* [markmap-lib](https://markmap.js.org/) is a combination of Markdown syntax and mindmaps
-* [Smartdown](https://github.com/smartdown) is an authoring technology that simplifies the creation of explorable explanations
-
 ### Applications
 
 * [Contextualise](https://contextualise.dev/) is a tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
@@ -53,10 +43,27 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Grakn](https://grakn.ai/) is an enterprise knowledge graph management system designed to scale
 * [Notion](https://www.notion.so/) is an all-in-one workspace for your notes, tasks, wikis, and databases
 
+### Libraries
+
+* [TopicDB](https://github.com/brettkromkamp/topic-db) is a topic maps-based semantic graph library (using PostgreSQL for persistence)
+* [markmap-lib](https://markmap.js.org/) is a combination of Markdown syntax and mindmaps
+* [Smartdown](https://github.com/smartdown) is an authoring technology that simplifies the creation of explorable explanations
+* [NetworkX](https://github.com/networkx/networkx) is a Python package for the creation, manipulation and study of complex networks
+* [JSNetworkX](http://jsnetworkx.org/) is a JavaScript port of the NetworkX graph library
+* [vis.js](https://github.com/visjs) is a collection of dynamic browser-based visualization libraries for network graphs, timelines and charts (both 2D and 3D) 
+* [Sigma](http://sigmajs.org/) is a JavaScript library dedicated to (network) graph drawing
+* [Cytoscape.js](https://js.cytoscape.org/) is a graph theory (network) library for visualisation and analysis
+* [Alchemy.js](https://graphalchemist.github.io/Alchemy/#/) is a graph drawing application built almost entirely in [D3.js](https://d3js.org/)
+* [GoJS](https://gojs.net/latest/samples/index.html) is a JavaScript and TypeScript library for building interactive diagrams and graphs
+* [Treant.js](http://fperucic.github.io/treant-js/) is a SVG-based JavaScript library for for visualization of tree diagrams
+
+### APIs
+
+* [Wikidata: Data access](https://www.wikidata.org/wiki/Wikidata:Data_access)
+
 ### Knowledge Graphs in the Wild
 
 * [Knowledge Graph Hub to produce a knowledge graph for COVID-19 and SARS-COV-2](https://github.com/Knowledge-Graph-Hub/kg-covid-19)
-
 
 ### Miscellaneous
 
