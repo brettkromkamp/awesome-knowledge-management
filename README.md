@@ -42,6 +42,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Ontotext](https://www.ontotext.com/) is a platform that allows you to organize your information and documents into enterprise knowledge graphs
 * [Grakn](https://grakn.ai/) is an enterprise knowledge graph management system designed to scale
 * [Notion](https://www.notion.so/) is an all-in-one workspace for your notes, tasks, wikis, and databases
+* [TiddlyWiki](https://tiddlywiki.com/) is a non-linear notebook for capturing, organising and sharing complex information
 
 ### Libraries
 
@@ -54,8 +55,10 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Sigma](http://sigmajs.org/) is a JavaScript library dedicated to (network) graph drawing
 * [Cytoscape.js](https://js.cytoscape.org/) is a graph theory (network) library for visualisation and analysis
 * [Alchemy.js](https://graphalchemist.github.io/Alchemy/#/) is a graph drawing application built almost entirely in [D3.js](https://d3js.org/)
-* [GoJS](https://gojs.net/latest/samples/index.html) is a JavaScript and TypeScript library for building interactive diagrams and graphs
+* [GoJS](https://gojs.net/latest/samples/index.html) is a **commercial** JavaScript and TypeScript library for building interactive diagrams and graphs
 * [Treant.js](http://fperucic.github.io/treant-js/) is a SVG-based JavaScript library for for visualization of tree diagrams
+* [JavaScript InfoVis Toolkit](https://philogb.github.io/jit/index.html) provides tools for creating interactive data visualizations for the web
+* [Treeviz](https://github.com/PierreCapo/treeviz) is a JavaScript library to represent tree diagrams with the ability to handle dynamic data flows
 
 ### APIs
 
@@ -69,6 +72,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) is a curated list of various semantic web and linked data resources
 * [Debate: Roam Research vs. Notion](https://capiche.com/q/debate-roam-research-vs-notion)
+* [Contextualise thread on Hacker News](https://news.ycombinator.com/item?id=22282583)
 
 ## How to Contribute
 
