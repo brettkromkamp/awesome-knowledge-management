@@ -60,6 +60,8 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [JavaScript InfoVis Toolkit](https://philogb.github.io/jit/index.html) provides tools for creating interactive data visualizations for the web
 * [Treeviz](https://github.com/PierreCapo/treeviz) is a JavaScript library to represent tree diagrams with the ability to handle dynamic data flows
 * [MindMup](https://github.com/mindmup/mapjs) is a JavaScript-based mind map canvas
+* [jsMind](https://github.com/hizzgdev/jsmind) is a JavaScript library for mind map visualizations
+* [jsPlumb](http://jsplumb.github.io/jsplumb/home.html) Community edition is an SVG-based graph visualization library
 
 ### APIs
 
