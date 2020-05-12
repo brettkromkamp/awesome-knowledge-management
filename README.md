@@ -47,7 +47,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Notion](https://www.notion.so/) is an all-in-one workspace for your notes, tasks, wikis, and databases
 * [TiddlyWiki](https://tiddlywiki.com/) is a non-linear notebook for capturing, organising and sharing complex information
 * [DMX - The Context Machine](https://dmx.berlin/dmx-context-machine)
-* [https://knovigator.com/](Knovigator) is a tool to create threads of your best search queries and search results which can subsequently be remixed into blog posts, Twitter threads, and multi dimensional, asynchronous conversation
+* [Knovigator](https://knovigator.com/) is a tool to create threads of your best search queries and search results which can subsequently be remixed into blog posts, Twitter threads, and multi dimensional, asynchronous conversation
 * [_Prtcl](http://www.uprtcl.io/) combines the core ideas behind the World Wide Web and Git into the concept of Evolving Entities, or "Evees"
 * [Hypothesis](https://web.hypothes.is/) is a conversation layer over the entire web based on the annotation standards for digital documents developed by the [W3C Web Annotation Working Group](https://www.w3.org/annotation/)
 * [Transno](https://transno.com/) is an outline-based note-taking app with mind-mapping features
