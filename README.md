@@ -12,7 +12,8 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 ### People
 
 * [Andy Matuschak](https://andymatuschak.org/) is a software engineer, designer, and researcher working on technologies that expand what people can think and do
-* [Anne-Laure Le Cunff](https://www.mentalnodes.com/about) is the founder of [Ness Labs](https://nesslabs.com/) and MSc of Applied Neuroscience candidate at King's College
+* [Anne-Laure Le Cunff](https://www.mentalnodes.com/about) is the founder of [Ness Labs](https://nesslabs.com/) and MSc of Applied Neuroscience candidate
+* [Jack Park](http://www.topicquests.org/) is a computer scientist working in the fields of artificial and collective intelligence and co-author of the book _XML Topic Maps: Creating and Using Topic Maps for the Web_
 
 ### Articles
 
@@ -49,6 +50,9 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [https://knovigator.com/] is a tool to create threads of your best search queries and search results which can subsequently be remixed into blog posts, Twitter threads, and multi dimensional, asynchronous conversation
 * [_Prtcl](http://www.uprtcl.io/) combines the core ideas behind the World Wide Web and Git into the concept of Evolving Entities, or "Evees"
 * [Hypothesis](https://web.hypothes.is/) is a conversation layer over the entire web based on the annotation standards for digital documents developed by the [W3C Web Annotation Working Group](https://www.w3.org/annotation/)
+* [Transno](https://transno.com/) is an outline-based note-taking app with mind-mapping features
+* [The Brain](https://www.thebrain.com/) is a notes editor with non-linear file management and powerful graph visualisation features
+* [TiddlyRoam](https://joekroese.github.io/tiddlyroam/) is a [TiddlyWiki](https://tiddlywiki.com/) with bi-directional links and graph maps
 
 ### Libraries
 
