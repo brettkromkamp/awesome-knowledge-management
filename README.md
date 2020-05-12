@@ -12,6 +12,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 ### People
 
 * [Andy Matuschak](https://andymatuschak.org/) is a software engineer, designer, and researcher working on technologies that expand what people can think and do
+* [Anne-Laure Le Cunff](https://www.mentalnodes.com/about) is the founder of [Ness Labs](https://nesslabs.com/) and MSc of Applied Neuroscience candidate at King's College
 
 ### Articles
 
@@ -30,6 +31,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Complexity Explorables](https://www.complexity-explorables.org/)
 * [What is the Difference between Taxonomy and Ontology? It is a Matter of Complexity](https://www.earley.com/blog/what-difference-between-taxonomy-and-ontology-it-matter-complexity)
 * [Weaving a Decentralized Semantic Web of (Personal) Knowledge](https://www.researchgate.net/publication/334126329_Weaving_a_Decentralized_Semantic_Web_of_Personal_Knowledge)
+* [You and your mind garden](https://nesslabs.com/mind-garden)
 
 ### Applications
 
@@ -43,6 +45,10 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Grakn](https://grakn.ai/) is an enterprise knowledge graph management system designed to scale
 * [Notion](https://www.notion.so/) is an all-in-one workspace for your notes, tasks, wikis, and databases
 * [TiddlyWiki](https://tiddlywiki.com/) is a non-linear notebook for capturing, organising and sharing complex information
+* [DMX - The Context Machine](https://dmx.berlin/dmx-context-machine)
+* [https://knovigator.com/] is a tool to create threads of your best search queries and search results which can subsequently be remixed into blog posts, Twitter threads, and multi dimensional, asynchronous conversation
+* [_Prtcl](http://www.uprtcl.io/) combines the core ideas behind the World Wide Web and Git into the concept of Evolving Entities, or "Evees"
+* [Hypothesis](https://web.hypothes.is/) is a conversation layer over the entire web based on the annotation standards for digital documents developed by the [W3C Web Annotation Working Group](https://www.w3.org/annotation/)
 
 ### Libraries
 
