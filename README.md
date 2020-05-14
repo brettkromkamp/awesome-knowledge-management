@@ -33,6 +33,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [What is the Difference between Taxonomy and Ontology? It is a Matter of Complexity](https://www.earley.com/blog/what-difference-between-taxonomy-and-ontology-it-matter-complexity)
 * [Weaving a Decentralized Semantic Web of (Personal) Knowledge](https://www.researchgate.net/publication/334126329_Weaving_a_Decentralized_Semantic_Web_of_Personal_Knowledge)
 * [You and your mind garden](https://nesslabs.com/mind-garden)
+* [The Importance of Distinguishing between Terms and Concepts](https://www.semanticarts.com/the-importance-of-distinguishing-between-terms-and-concepts/)
 
 ### Applications
 
@@ -53,6 +54,12 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Transno](https://transno.com/) is an outline-based note-taking app with mind-mapping features
 * [The Brain](https://www.thebrain.com/) is a notes editor with non-linear file management and powerful graph visualisation features
 * [TiddlyRoam](https://joekroese.github.io/tiddlyroam/) is a [TiddlyWiki](https://tiddlywiki.com/) with bi-directional links and graph maps
+* [Gingko](https://gingkoapp.com/) is a tool that lets you shape your ideas with lists, outlines and cards
+* [Cotoami](https://www.patreon.com/cotoami) is a note-taking application for both personal and collaborative use
+* [DigitalPage](https://www.digitalpage.me/)
+* [notegraph](http://notegraph.com/) is a tool that provides a way to visually organise information and ideas (not available, yet!)
+* [IdeaFlow](https://www.ideaflow.io/) is a human-AI hybrid platform to augment the collective intelligence of groups
+* [Topincs](https://www.topincs.com/tour) is a topic maps-based 4GL platform for online systems
 
 ### Libraries
 
