@@ -38,8 +38,9 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Roam: Why I Love It and How I Use It](https://www.nateliason.com/blog/roam)
 * [The PARA Method: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/)
 * [Building a Second Brain in Roam... And Why You Might Want To](https://www.reddit.com/r/RoamResearch/comments/eho7de/building_a_second_brain_in_roamand_why_you_might/)
+* [Computer Assisted Intuition: How Roam Research fulfills the web's original dream](https://capiche.com/e/roam-research-worldwideweb-xanadu)
 
-### Applications
+### Applications and Tools
 
 * [Contextualise](https://contextualise.dev/) is a tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 * [Roam](https://roamresearch.com/) is a note-taking tool for networked thought
@@ -83,6 +84,10 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [MindMup](https://github.com/mindmup/mapjs) is a JavaScript-based mind map canvas
 * [jsMind](https://github.com/hizzgdev/jsmind) is a JavaScript library for mind map visualizations
 * [jsPlumb](http://jsplumb.github.io/jsplumb/home.html) Community edition is an SVG-based graph visualization library
+* [GraphStream](http://graphstream-project.org/) is a Java library for the modeling and analysis of dynamic graphs
+* [JGraphT](https://jgrapht.org/) is a Java library of graph theory data structures and algorithms
+* [Dash Cytoscape](https://github.com/plotly/dash-cytoscape) is a [Dash](https://plotly.com/dash/) component library for creating interactive and customizable networks in Python, wrapped around Cytoscape.js
+* [El Grapho](https://www.elgrapho.com/) is a high performance [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) graph data visualization engine
 
 ### APIs
 
