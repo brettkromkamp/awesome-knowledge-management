@@ -37,7 +37,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [An opinionated approach to TiddlyWiki](https://lesser.occult.institute/an-opinionated-approach-to-tiddlywiki)
 * [Roam: Why I Love It and How I Use It](https://www.nateliason.com/blog/roam)
 * [The PARA Method: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/)
-* [Building a Second Brain in Roam...And Why You Might Want To](https://www.reddit.com/r/RoamResearch/comments/eho7de/building_a_second_brain_in_roamand_why_you_might/)
+* [Building a Second Brain in Roam... And Why You Might Want To](https://www.reddit.com/r/RoamResearch/comments/eho7de/building_a_second_brain_in_roamand_why_you_might/)
 
 ### Applications
 
