@@ -40,6 +40,8 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Building a Second Brain in Roam... And Why You Might Want To](https://www.reddit.com/r/RoamResearch/comments/eho7de/building_a_second_brain_in_roamand_why_you_might/)
 * [Computer Assisted Intuition: How Roam Research fulfills the web's original dream](https://capiche.com/e/roam-research-worldwideweb-xanadu)
 * [Fibery vs. Notion](https://medium.com/fibery/fibery-vs-notion-66019dd91846)
+* [Roam Research](https://davidyat.es/2020/05/23/roam-research/)
+* [Ontology is Overrated: Categories, Links, and Tags](https://archive.fo/a8Uyp) (**archived**)
 
 ### Applications and Tools
 
@@ -104,6 +106,8 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) is a curated list of various semantic web and linked data resources
 * [Debate: Roam Research vs. Notion](https://capiche.com/q/debate-roam-research-vs-notion)
 * [Contextualise thread](https://news.ycombinator.com/item?id=22282583) on Hacker News
+* [Ontology is Overrated: Categories, Links, and Tags thread](https://news.ycombinator.com/item?id=18972861) on Hacker News
+* [Automated Knowledge Base Construction conference](https://www.akbc.ws/2020/)
 
 ## How to Contribute
 
