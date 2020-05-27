@@ -69,6 +69,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Topincs](https://www.topincs.com/tour) is a topic maps-based 4GL platform for online systems
 * [Org-roam](https://github.com/org-roam/org-roam) is a Roam replica built on top of the all-powerful [Org-mode](https://orgmode.org/) for Emacs
 * [Graph Commons](https://graphcommons.com/) is a tool that allows you to transform your data into interactive maps and untangle complex relations that impact you and your communities
+* [Stemic](https://stemic.app/) is a visual thinking tool that helps understanding
 
 ### Libraries
 
