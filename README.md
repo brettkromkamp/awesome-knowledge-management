@@ -39,6 +39,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [The PARA Method: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/)
 * [Building a Second Brain in Roam... And Why You Might Want To](https://www.reddit.com/r/RoamResearch/comments/eho7de/building_a_second_brain_in_roamand_why_you_might/)
 * [Computer Assisted Intuition: How Roam Research fulfills the web's original dream](https://capiche.com/e/roam-research-worldwideweb-xanadu)
+* [Fibery vs. Notion](https://medium.com/fibery/fibery-vs-notion-66019dd91846)
 
 ### Applications and Tools
 
@@ -65,6 +66,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [IdeaFlow](https://www.ideaflow.io/) is a human-AI hybrid platform to augment the collective intelligence of groups
 * [Topincs](https://www.topincs.com/tour) is a topic maps-based 4GL platform for online systems
 * [Org-roam](https://github.com/org-roam/org-roam) is a Roam replica built on top of the all-powerful [Org-mode](https://orgmode.org/) for Emacs
+* [Graph Commons](https://graphcommons.com/) is a tool that allows you to transform your data into interactive maps and untangle complex relations that impact you and your communities
 
 ### Libraries
 
