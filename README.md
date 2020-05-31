@@ -70,6 +70,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Org-roam](https://github.com/org-roam/org-roam) is a Roam replica built on top of the all-powerful [Org-mode](https://orgmode.org/) for Emacs
 * [Graph Commons](https://graphcommons.com/) is a tool that allows you to transform your data into interactive maps and untangle complex relations that impact you and your communities
 * [Stemic](https://stemic.app/) is a visual thinking tool that helps understanding
+* [Contexted](https://contexted.io/) is a relational note-taking app
 
 ### Libraries
 
@@ -93,6 +94,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [JGraphT](https://jgrapht.org/) is a Java library of graph theory data structures and algorithms
 * [Dash Cytoscape](https://github.com/plotly/dash-cytoscape) is a [Dash](https://plotly.com/dash/) component library for creating interactive and customizable networks in Python, wrapped around Cytoscape.js
 * [El Grapho](https://www.elgrapho.com/) is a high performance [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) graph data visualization engine
+* [Graphviz](https://graphviz.gitlab.io/) is an opensource graph visualisation library
 
 ### APIs
 
@@ -105,6 +107,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 ### Miscellaneous
 
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) is a curated list of various semantic web and linked data resources
+* [Awesome Knowledge Graph](https://github.com/shaoxiongji/awesome-knowledge-graph) is a curated collection of research on knowledge graphs
 * [Debate: Roam Research vs. Notion](https://capiche.com/q/debate-roam-research-vs-notion)
 * [Contextualise thread](https://news.ycombinator.com/item?id=22282583) on Hacker News
 * [Ontology is Overrated: Categories, Links, and Tags thread](https://news.ycombinator.com/item?id=18972861) on Hacker News
