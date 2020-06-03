@@ -71,6 +71,7 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Graph Commons](https://graphcommons.com/) is a tool that allows you to transform your data into interactive maps and untangle complex relations that impact you and your communities
 * [Stemic](https://stemic.app/) is a visual thinking tool that helps understanding
 * [Contexted](https://contexted.io/) is a relational note-taking app
+* [Stardog](https://www.stardog.com/platform/) is an enterprise knowledge graph platform
 
 ### Libraries
 
@@ -108,10 +109,12 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) is a curated list of various semantic web and linked data resources
 * [Awesome Knowledge Graph](https://github.com/shaoxiongji/awesome-knowledge-graph) is a curated collection of research on knowledge graphs
+* [Second-Brain](https://github.com/KasperZutterman/Second-Brain) is a curated list of awesome public Zettelkastens / Second Brains / Digital Gardens
 * [Debate: Roam Research vs. Notion](https://capiche.com/q/debate-roam-research-vs-notion)
 * [Contextualise thread](https://news.ycombinator.com/item?id=22282583) on Hacker News
 * [Ontology is Overrated: Categories, Links, and Tags thread](https://news.ycombinator.com/item?id=18972861) on Hacker News
 * [Automated Knowledge Base Construction conference](https://www.akbc.ws/2020/)
+* [Amazon Web Services open-sources biological knowledge graph to fight COVID-19](https://www.amazon.science/blog/amazon-web-services-open-sources-biological-knowledge-graph-to-fight-covid-19)
 
 ## How to Contribute
 
