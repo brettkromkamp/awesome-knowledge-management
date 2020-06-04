@@ -72,7 +72,8 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Stemic](https://stemic.app/) is a visual thinking tool that helps understanding
 * [Contexted](https://contexted.io/) is a relational note-taking app
 * [Stardog](https://www.stardog.com/platform/) is an enterprise knowledge graph platform
-* [Obsidian](https://obsidian.md/) is commercial knowledge base software that works on top of a local folder of markdown files
+* [Obsidian](https://obsidian.md/) is commercial knowledge base software that works on top of a local folder of Markdown files
+* [Trilium Notes](https://github.com/zadam/trilium) is a hierarchical note taking application with a focus on building large personal knowledge bases
 
 ### Libraries
 
