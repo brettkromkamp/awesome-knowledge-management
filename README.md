@@ -87,7 +87,7 @@ A curated list of interesting and useful [knowledge graph](https://en.wikipedia.
 - [Smartdown](https://github.com/smartdown) - An authoring technology that simplifies the creation of explorable explanations.
 - [NetworkX](https://github.com/networkx/networkx) - A Python package for the creation, manipulation and study of complex networks.
 - [JSNetworkX](http://jsnetworkx.org/) - A JavaScript port of the NetworkX graph library.
-- [vis.js](https://github.com/visjs) - A collection of dynamic browser-based visualization libraries for network graphs, timelines and charts (both 2D and 3D) .
+- [vis.js](https://github.com/visjs) - A collection of dynamic browser-based visualization libraries for network graphs, timelines and charts (both 2D and 3D).
 - [Sigma](http://sigmajs.org/) - A JavaScript library dedicated to (network) graph drawing.
 - [Cytoscape.js](https://js.cytoscape.org/) - A graph theory (network) library for visualisation and analysis.
 - [Alchemy.js](https://graphalchemist.github.io/Alchemy/#/) - A graph drawing application built almost entirely in [D3.js](https://d3js.org/).
