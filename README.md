@@ -3,7 +3,7 @@
 
 The Knowledge Graph Radar is an attempt to keep track of interesting people, projects, applications and so forth *related to* the [knowledge graph](https://en.wikipedia.org/wiki/Knowledge_Graph) space.
 
-> When I say "*related to*" I am going broad rather than narrow. That is, I will probably include things that are only tangentially related to knowledge graphs but that **could be** of interest within the context of the development of [Contextualise](https://contextualise.dev), the (personal and collaborative) knowledge management application that I am developing. Having said that, I will try to stay on topic as much as possible :) 
+> When I say "*related to*" I am going broad rather than narrow. That is, I will probably include things that are only tangentially related to knowledge graphs but that **could be** of interest within the context of the development of [Contextualise](https://contextualise.dev), the (personal and collaborative) knowledge management application that I am developing. Having said that, I will try to stay on topic as much as possible :)
 
 ![Isometric classroom](resources/isometric-classroom.png)
 
@@ -117,12 +117,3 @@ The Knowledge Graph Radar is an attempt to keep track of interesting people, pro
 * [Ontology is Overrated: Categories, Links, and Tags thread](https://news.ycombinator.com/item?id=18972861) on Hacker News
 * [Automated Knowledge Base Construction conference](https://www.akbc.ws/2020/)
 * [Amazon Web Services open-sources biological knowledge graph to fight COVID-19](https://www.amazon.science/blog/amazon-web-services-open-sources-biological-knowledge-graph-to-fight-covid-19)
-
-## How to Contribute
-
-* Fork the [repository](https://github.com/brettkromkamp/knowledge-graph-radar) on GitHub to start making your changes to the **master** branch (or branch off of it).
-* Send a pull request and bug the maintainer until it gets merged and published. :) Make sure to add yourself to [CONTRIBUTORS](https://github.com/brettkromkamp/knowledge-graph-radar/blob/master/CONTRIBUTORS.md).
-
-## License
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) (CC BY 4.0).
