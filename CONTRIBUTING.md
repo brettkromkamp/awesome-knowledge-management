@@ -12,7 +12,7 @@ Please ensure your pull requests adhere to the following guidelines:
 - Make sure the suggestion is relevant.
 - Make sure your text editor is set to remove trailing whitespace.
 
-- Use the following format: `* [Name](link) Description`
+- Use the following format: `- [Name](link) - Description`
 - Additions should be added to the bottom of their respective category.
 - Check your spelling and grammar.
 - The pull request and commit should have a useful title.
