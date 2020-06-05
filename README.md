@@ -2,7 +2,7 @@
 
 ![Isometric classroom](resources/isometric-classroom.png)
 
-A curated list of interesting and useful [knowledge graph](https://en.wikipedia.org/wiki/Knowledge_Graph) resources.
+> A curated list of awesome resources related to the [knowledge graph](https://en.wikipedia.org/wiki/Knowledge_Graph) space.
 
 ## Contents
 
@@ -12,6 +12,7 @@ A curated list of interesting and useful [knowledge graph](https://en.wikipedia.
 - [Libraries](#libraries)
 - [APIs](#apis)
 - [Knowledge Graphs in the Wild](#knowledge-graphs-in-the-wild)
+- [Related Awesome-Lists](#related-awesome-lists)
 - [Miscellaneous](#miscellaneous)
 
 ## People
@@ -112,13 +113,18 @@ A curated list of interesting and useful [knowledge graph](https://en.wikipedia.
 
 - [Knowledge Graph Hub to produce a knowledge graph for COVID-19 and SARS-COV-2](https://github.com/Knowledge-Graph-Hub/kg-covid-19)
 
-## Miscellaneous
+## Related Awesome-Lists
 
 - [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
 - [Awesome Knowledge Graph](https://github.com/shaoxiongji/awesome-knowledge-graph) - A curated collection of research on knowledge graphs.
+
+## Miscellaneous
+
 - [Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome public Zettelkastens / Second Brains / Digital Gardens.
+- [Artificial Brain Networked notebook](https://www.notion.so/Artificial-Brain-Networked-notebook-a131b468fc6f43218fb8105430304709)
 - [Debate: Roam Research vs. Notion](https://capiche.com/q/debate-roam-research-vs-notion)
 - [Contextualise thread on Hacker News](https://news.ycombinator.com/item?id=22282583)
 - [Ontology is Overrated: Categories, Links, and Tags thread on Hacker News](https://news.ycombinator.com/item?id=18972861)
 - [Automated Knowledge Base Construction conference](https://www.akbc.ws/2020/)
 - [Amazon Web Services open-sources biological knowledge graph to fight COVID-19](https://www.amazon.science/blog/amazon-web-services-open-sources-biological-knowledge-graph-to-fight-covid-19)
+
