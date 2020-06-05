@@ -1,13 +1,8 @@
-# Awesome Knowledge Graph [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Knowledge Management [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![Isometric classroom](resources/isometric-classroom.png)
 
-> A curated list of amazingly awesome articles, websites and resources about the combined knowledge graph and knowledge management space in general, and in particular within the context of the development of [Contextualise](https://www.contextualise.dev/) &mdash; the knowledge management application that I am developing.
-
-The knowledge graph (KG) represents a collection of interlinked descriptions of entities &mdash; real-world objects, events, situations or abstract concepts &mdash; where:
-
-- Descriptions have a formal structure that allows both people and computers to process them in an efficient and unambiguous manner;
-- Entity descriptions contribute to one another, forming a network, where each entity represents part of the description of the entities, related to it.
+> A curated list of amazingly awesome articles, websites and resources about the knowledge management space in general, and in particular within the context of the development of [Contextualise](https://www.contextualise.dev/) &mdash; the (personal and collaborative) knowledge management application that I am developing.
 
 ## Contents
 
