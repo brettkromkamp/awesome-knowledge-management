@@ -80,6 +80,7 @@
 - [Stardog](https://www.stardog.com/platform/) - An enterprise knowledge graph platform.
 - [Obsidian](https://obsidian.md/) - Is commercial knowledge base software that works on top of a local folder of Markdown files.
 - [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with a focus on building large personal knowledge bases.
+- [Karma](https://www.karma.fm/) - A collaborative mind-mapping tool.
 
 ## Libraries
 
