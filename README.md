@@ -2,7 +2,7 @@
 
 ![Isometric classroom](resources/isometric-classroom.png)
 
-> A curated list of amazingly awesome articles, interesting people, projects, applications, software libraries and projects related to the knowledge graph space in general, and in particular [Contextualise](https://www.contextualise.dev/), the (personal and collaborative) knowledge management application that I am developing.
+> A curated list of amazingly awesome articles, interesting people, projects, applications, software libraries and projects related to the knowledge management space in general, and in particular [Contextualise](https://www.contextualise.dev/), the (personal and collaborative) knowledge management application that I am developing.
 
 ## Contents
 
