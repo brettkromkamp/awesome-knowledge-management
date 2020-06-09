@@ -34,7 +34,6 @@
 - [How can we develop transformative tools for thought?](https://numinous.productions/ttft/)
 - [Graph Technology Landscape 2020](https://graphaware.com/graphaware/2020/02/17/graph-technology-landscape-2020.html)
 - [Cotoami, an Experimental Note-taking App Focusing on Connecting](https://medium.com/@cotoami/cotoami-an-experimental-note-taking-app-focusing-on-connecting-734928d53d2c)
-- [Exploring the CIA World Factbook](https://iancoleman.io/exploring-the-cia-world-factbook/)
 - [Complexity Explorables](https://www.complexity-explorables.org/)
 - [What is the Difference between Taxonomy and Ontology? It is a Matter of Complexity](https://www.earley.com/blog/what-difference-between-taxonomy-and-ontology-it-matter-complexity)
 - [Weaving a Decentralized Semantic Web of (Personal) Knowledge](https://www.researchgate.net/publication/334126329_Weaving_a_Decentralized_Semantic_Web_of_Personal_Knowledge)
@@ -81,6 +80,9 @@
 - [Obsidian](https://obsidian.md/) - Is commercial knowledge base software that works on top of a local folder of Markdown files.
 - [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with a focus on building large personal knowledge bases.
 - [Karma](https://www.karma.fm/) - A collaborative mind-mapping tool.
+- [Golden](https://golden.com/) - A self-constructing knowledge platform using a combination of artificial and human intelligence.
+- [PoolParty](https://www.poolparty.biz/) - A semantic technology platform focused on the creation and management of enterprise knowledge graphs.
+
 
 ## Libraries
 
