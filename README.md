@@ -2,7 +2,7 @@
 
 ![Isometric classroom](resources/isometric-classroom.png)
 
-> A curated list of amazingly awesome articles, websites and resources about the knowledge management space in general, and in particular within the context of the development of [Contextualise](https://www.contextualise.dev/) &mdash; the (personal and collaborative) knowledge management application that I am developing.
+> A curated list of amazingly awesome articles, interesting people, projects, applications, software libraries and projects related to the knowledge graph space in general, and in particular [Contextualise](https://www.contextualise.dev/), the (personal and collaborative) knowledge management application that I am developing.
 
 ## Contents
 
@@ -82,7 +82,6 @@
 - [Karma](https://www.karma.fm/) - A collaborative mind-mapping tool.
 - [Golden](https://golden.com/) - A self-constructing knowledge platform using a combination of artificial and human intelligence.
 - [PoolParty](https://www.poolparty.biz/) - A semantic technology platform focused on the creation and management of enterprise knowledge graphs.
-
 
 ## Libraries
 
