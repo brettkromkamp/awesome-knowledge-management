@@ -2,7 +2,7 @@
 
 ![Isometric classroom](resources/isometric-classroom.png)
 
-> A curated list of amazingly awesome articles, interesting people, projects, applications, software libraries and projects related to the knowledge management space in general, and in particular [Contextualise](https://www.contextualise.dev/), the (personal and collaborative) knowledge management application that I am developing.
+> A curated list of amazingly awesome articles, people, projects, applications, software libraries and projects related to the knowledge management space in general, and in particular [Contextualise](https://www.contextualise.dev/), the (personal and collaborative) knowledge management application that I am developing.
 
 ## Contents
 
@@ -47,6 +47,7 @@
 - [Fibery vs. Notion](https://medium.com/fibery/fibery-vs-notion-66019dd91846)
 - [Roam Research](https://davidyat.es/2020/05/23/roam-research/)
 - [Ontology is Overrated: Categories, Links, and Tags](https://archive.fo/a8Uyp) (**archived**)
+- [Semantically Meaningful Relationships](https://brettkromkamp.com/posts/semantically-meaningful-relationships/)
 
 ## Applications and Tools
 
