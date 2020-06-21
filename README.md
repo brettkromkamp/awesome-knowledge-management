@@ -84,6 +84,7 @@
 - [Golden](https://golden.com/) - A self-constructing knowledge platform using a combination of artificial and human intelligence.
 - [PoolParty](https://www.poolparty.biz/) - A semantic technology platform focused on the creation and management of enterprise knowledge graphs.
 - [Relanote](https://relanote.com/) - A tool that combines both hierarchical and non-hierarchical note-taking with bi-directional linking.
+- [Bytebase](https://bytebase.io./) - An online tool to write, organize and collaborate on notes.
 
 ## Libraries
 
