@@ -85,6 +85,7 @@
 - [PoolParty](https://www.poolparty.biz/) - A semantic technology platform focused on the creation and management of enterprise knowledge graphs.
 - [Relanote](https://relanote.com/) - A tool that combines both hierarchical and non-hierarchical note-taking with bi-directional linking.
 - [Bytebase](https://bytebase.io./) - An online tool to write, organize and collaborate on notes.
+- [Foam](https://foambubble.github.io/foam/) - A personal knowledge management and sharing system inspired by Roam Research, built on [Visual Studio Code](https://code.visualstudio.com/) and GitHub.
 
 ## Libraries
 
