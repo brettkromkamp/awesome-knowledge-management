@@ -78,7 +78,7 @@
 - [Stemic](https://stemic.app/) - A visual thinking tool that helps understanding.
 - [Contexted](https://contexted.io/) - A relational note-taking app.
 - [Stardog](https://www.stardog.com/platform/) - An enterprise knowledge graph platform.
-- [Obsidian](https://obsidian.md/) - Is commercial knowledge base software that works on top of a local folder of Markdown files.
+- [Obsidian](https://obsidian.md/) - Is commercial knowledge base software that works on top of a local folder of [Markdown](https://daringfireball.net/projects/markdown/syntax) files.
 - [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with a focus on building large personal knowledge bases.
 - [Karma](https://www.karma.fm/) - A collaborative mind-mapping tool.
 - [Golden](https://golden.com/) - A self-constructing knowledge platform using a combination of artificial and human intelligence.
@@ -86,6 +86,7 @@
 - [Relanote](https://relanote.com/) - A tool that combines both hierarchical and non-hierarchical note-taking with bi-directional linking.
 - [Bytebase](https://bytebase.io./) - An online tool to write, organize and collaborate on notes.
 - [Foam](https://foambubble.github.io/foam/) - A personal knowledge management and sharing system inspired by Roam Research, built on [Visual Studio Code](https://code.visualstudio.com/) and GitHub.
+- [Stroll](https://giffmex.org/stroll/stroll.html) - A notetaking tool built with the TiddlyWiki platform, imitating a number of features of Roam, including bi-directional links and autocomplete suggestions for linking.
 
 ## Libraries
 
@@ -110,6 +111,7 @@
 - [Dash Cytoscape](https://github.com/plotly/dash-cytoscape) - A [Dash](https://plotly.com/dash/) component library for creating interactive and customizable networks in Python, wrapped around Cytoscape.js.
 - [El Grapho](https://www.elgrapho.com/) - A high performance [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) graph data visualization engine.
 - [Graphviz](https://graphviz.gitlab.io/) - An opensource graph visualisation library.
+- [Argdown](https://argdown.org/) - A Visual Studio Code extension (and command-line tool) for argument mapping using a Markdown-like syntax.
 
 ## APIs
 
