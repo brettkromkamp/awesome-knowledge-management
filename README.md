@@ -135,4 +135,4 @@
 - [Ontology is Overrated: Categories, Links, and Tags thread on Hacker News](https://news.ycombinator.com/item?id=18972861)
 - [Automated Knowledge Base Construction conference](https://www.akbc.ws/2020/)
 - [Amazon Web Services open-sources biological knowledge graph to fight COVID-19](https://www.amazon.science/blog/amazon-web-services-open-sources-biological-knowledge-graph-to-fight-covid-19)
-
+- [Digital Gardening](https://github.com/MaggieAppleton/digital-gardeners) - A collective of gardeners publicly tending their digital notes on the interwebs.
