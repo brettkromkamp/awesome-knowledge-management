@@ -48,6 +48,9 @@
 - [Roam Research](https://davidyat.es/2020/05/23/roam-research/)
 - [Ontology is Overrated: Categories, Links, and Tags](https://archive.fo/a8Uyp) (**archived**)
 - [Semantically Meaningful Relationships](https://brettkromkamp.com/posts/semantically-meaningful-relationships/)
+- [treevis.net - A Visual Bibliography of Tree Visualization](https://treevis.net/)
+- [A Visual Survey of Text Visualization Techniques](https://textvis.lnu.se/)
+- [Visualizing Group Structures in Graphs](http://groups-in-graphs.corinna-vehlow.com/)
 
 ## Applications and Tools
 
