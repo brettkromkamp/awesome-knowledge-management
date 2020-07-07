@@ -48,9 +48,6 @@
 - [Roam Research](https://davidyat.es/2020/05/23/roam-research/)
 - [Ontology is Overrated: Categories, Links, and Tags](https://archive.fo/a8Uyp) (**archived**)
 - [Semantically Meaningful Relationships](https://brettkromkamp.com/posts/semantically-meaningful-relationships/)
-- [treevis.net - A Visual Bibliography of Tree Visualization](https://treevis.net/)
-- [A Visual Survey of Text Visualization Techniques](https://textvis.lnu.se/)
-- [Visualizing Group Structures in Graphs](http://groups-in-graphs.corinna-vehlow.com/)
 
 ## Applications and Tools
 
@@ -140,3 +137,6 @@
 - [Ontology is Overrated: Categories, Links, and Tags thread on Hacker News](https://news.ycombinator.com/item?id=18972861)
 - [Automated Knowledge Base Construction conference](https://www.akbc.ws/2020/)
 - [Amazon Web Services open-sources biological knowledge graph to fight COVID-19](https://www.amazon.science/blog/amazon-web-services-open-sources-biological-knowledge-graph-to-fight-covid-19)
+- [treevis.net - A Visual Bibliography of Tree Visualization](https://treevis.net/)
+- [A Visual Survey of Text Visualization Techniques](https://textvis.lnu.se/)
+- [Visualizing Group Structures in Graphs](http://groups-in-graphs.corinna-vehlow.com/)
