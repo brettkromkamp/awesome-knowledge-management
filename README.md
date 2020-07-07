@@ -133,10 +133,10 @@
 ## Miscellaneous
 
 - [Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome public Zettelkastens / Second Brains / Digital Gardens.
+- [Digital Gardening](https://github.com/MaggieAppleton/digital-gardeners) - A collective of gardeners publicly tending their digital notes on the interwebs.
 - [Artificial Brain Networked notebook](https://www.notion.so/Artificial-Brain-Networked-notebook-a131b468fc6f43218fb8105430304709)
 - [Debate: Roam Research vs. Notion](https://capiche.com/q/debate-roam-research-vs-notion)
 - [Contextualise thread on Hacker News](https://news.ycombinator.com/item?id=22282583)
 - [Ontology is Overrated: Categories, Links, and Tags thread on Hacker News](https://news.ycombinator.com/item?id=18972861)
 - [Automated Knowledge Base Construction conference](https://www.akbc.ws/2020/)
 - [Amazon Web Services open-sources biological knowledge graph to fight COVID-19](https://www.amazon.science/blog/amazon-web-services-open-sources-biological-knowledge-graph-to-fight-covid-19)
-- [Digital Gardening](https://github.com/MaggieAppleton/digital-gardeners) - A collective of gardeners publicly tending their digital notes on the interwebs.
