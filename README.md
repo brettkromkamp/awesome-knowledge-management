@@ -88,6 +88,7 @@
 - [Foam](https://foambubble.github.io/foam/) - A personal knowledge management and sharing system inspired by Roam Research, built on [Visual Studio Code](https://code.visualstudio.com/) and GitHub.
 - [Stroll](https://giffmex.org/stroll/stroll.html) - A notetaking tool built with the TiddlyWiki platform, imitating a number of features of Roam, including bi-directional links and autocomplete suggestions for linking.
 - [Zettlr](https://www.zettlr.com/) - "A markdown editor for the 21st century" that supports crosslinking and integrates with Zotero.
+- [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki) - An open-source extension to MediaWiki that that can turn a wiki into a powerful and flexible knowledge management system.
 
 ## Libraries
 
@@ -113,6 +114,7 @@
 - [El Grapho](https://www.elgrapho.com/) - A high performance [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) graph data visualization engine.
 - [Graphviz](https://graphviz.gitlab.io/) - An opensource graph visualisation library.
 - [Argdown](https://argdown.org/) - A Visual Studio Code extension (and command-line tool) for argument mapping using a Markdown-like syntax.
+- [Splitgraph](https://www.splitgraph.com/) - A data versioning and management system for PostgreSQL that allows you to merge multiple data sources (and live APIs) and surface them through a single Postgres database.
 
 ## APIs
 
