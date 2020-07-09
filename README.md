@@ -114,7 +114,7 @@
 - [El Grapho](https://www.elgrapho.com/) - A high performance [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) graph data visualization engine.
 - [Graphviz](https://graphviz.gitlab.io/) - An opensource graph visualisation library.
 - [Argdown](https://argdown.org/) - A Visual Studio Code extension (and command-line tool) for argument mapping using a Markdown-like syntax.
-- [Splitgraph](https://www.splitgraph.com/) - A data versioning and management system for PostgreSQL that allows you to merge multiple data sources (and live APIs) and surface them through a single Postgres database.
+- [Splitgraph](https://www.splitgraph.com/) - A data versioning and management system for PostgreSQL that allows you to merge multiple data sources (and live APIs) and surface them through a single PostgreSQL database.
 
 ## APIs
 
