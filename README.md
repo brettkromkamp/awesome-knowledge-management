@@ -48,6 +48,8 @@
 - [Roam Research](https://davidyat.es/2020/05/23/roam-research/)
 - [Ontology is Overrated: Categories, Links, and Tags](https://archive.fo/a8Uyp) (**archived**)
 - [Semantically Meaningful Relationships](https://brettkromkamp.com/posts/semantically-meaningful-relationships/)
+- [Create a Zettelkasten for your Notes to Improve Thinking and Writing &mdash; Zettelkasten Method](https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/)
+- [Different Kinds of Ties Between Notes &mdash; Zettelkasten Method](https://zettelkasten.de/posts/kinds-of-ties/)
 
 ## Applications and Tools
 
@@ -89,6 +91,8 @@
 - [Stroll](https://giffmex.org/stroll/stroll.html) - A notetaking tool built with the TiddlyWiki platform, imitating a number of features of Roam, including bi-directional links and autocomplete suggestions for linking.
 - [Zettlr](https://www.zettlr.com/) - "A markdown editor for the 21st century" that supports crosslinking and integrates with Zotero.
 - [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki) - An open-source extension to MediaWiki that that can turn a wiki into a powerful and flexible knowledge management system.
+- [mymind](https://mymind.com/) - Save notes, bookmarks, web clippings and documents for subsequent automatic categorization.
+- [Loopy](https://ncase.me/loopy/) - A tool that includes simulations and visual programming for thinking in systems.
 
 ## Libraries
 
