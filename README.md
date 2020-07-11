@@ -135,7 +135,7 @@
 
 ## Up and Coming (Last Update: July 11, 2020)
 
-- [Hypernote](https://hypernote.io/) - Is a text-first, always-ready, two-way-linked online notebook (currently in private beta).
+- [Hypernote](https://hypernote.io/) - A text-first, always-ready, two-way-linked online notebook (currently in private beta).
 
 ## Miscellaneous
 
