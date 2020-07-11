@@ -133,6 +133,10 @@
 - [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
 - [Awesome Knowledge Graph](https://github.com/shaoxiongji/awesome-knowledge-graph) - A curated collection of research on knowledge graphs.
 
+## Up and Coming (Last Update: July 11, 2020)
+
+- [Hypernote](https://hypernote.io/) - Is a text-first, always-ready, two-way-linked online notebook (currently in private beta).
+
 ## Miscellaneous
 
 - [Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome public Zettelkastens / Second Brains / Digital Gardens.
