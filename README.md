@@ -93,6 +93,7 @@
 - [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki) - An open-source extension to MediaWiki that that can turn a wiki into a powerful and flexible knowledge management system.
 - [mymind](https://mymind.com/) - Save notes, bookmarks, web clippings and documents for subsequent automatic categorization.
 - [Loopy](https://ncase.me/loopy/) - A tool that includes simulations and visual programming for thinking in systems.
+- [Zotero](https://www.zotero.org/) - A free tool to help you collect, organize, cite, and share research.
 
 ## Libraries
 
