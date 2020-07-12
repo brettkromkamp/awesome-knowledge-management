@@ -14,6 +14,7 @@
 - [Knowledge Graphs in the Wild](#knowledge-graphs-in-the-wild)
 - [Related Awesome-Lists](#related-awesome-lists)
 - [Miscellaneous](#miscellaneous)
+- [Up and Coming](#up-and-coming)
 
 ## People
 
@@ -134,10 +135,6 @@
 - [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
 - [Awesome Knowledge Graph](https://github.com/shaoxiongji/awesome-knowledge-graph) - A curated collection of research on knowledge graphs.
 
-## Up and Coming (Last Updated: July 11, 2020)
-
-- [Hypernote](https://hypernote.io/) - A text-first, always-ready, two-way-linked online notebook (currently in private beta).
-
 ## Miscellaneous
 
 - [Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome public Zettelkastens / Second Brains / Digital Gardens.
@@ -151,3 +148,7 @@
 - [treevis.net - A Visual Bibliography of Tree Visualization](https://treevis.net/)
 - [A Visual Survey of Text Visualization Techniques](https://textvis.lnu.se/)
 - [Visualizing Group Structures in Graphs](http://groups-in-graphs.corinna-vehlow.com/)
+
+## Up and Coming
+
+- [Hypernote](https://hypernote.io/) - A text-first, always-ready, two-way-linked online notebook; currently in private beta (last updated: **July 12, 2020**).
