@@ -95,6 +95,7 @@
 - [mymind](https://mymind.com/) - Save notes, bookmarks, web clippings and documents for subsequent automatic categorization.
 - [Loopy](https://ncase.me/loopy/) - A tool that includes simulations and visual programming for thinking in systems.
 - [Zotero](https://www.zotero.org/) - A free tool to help you collect, organize, cite, and share research.
+- [Dendron](https://www.dendron.so/) - A local-first, markdown based, hierarchical note-taking application built on top of Visual Studio Code.
 
 ## Libraries
 
