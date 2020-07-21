@@ -97,10 +97,11 @@
 - [Zotero](https://www.zotero.org/) - A free tool to help you collect, organize, cite, and share research.
 - [Dendron](https://www.dendron.so/) - A local-first, markdown based, hierarchical note-taking application built on top of Visual Studio Code.
 - [Supernotes](https://supernotes.app/) - A productivity-focused collaborative and hierarchical note-taking application.
+- [Wiki.js](https://wiki.js.org/) - A self-hosted and highly customizable open source Wiki platform.
 
 ## Libraries
 
-- [TopicDB](https://github.com/brettkromkamp/topic-db) - A topic maps-based semantic graph library (using PostgreSQL for persistence).
+- [TopicDB](https://github.com/brettkromkamp/topic-db) - A topic maps-based semantic graph store (using PostgreSQL for persistence).
 - [markmap-lib](https://markmap.js.org/) - A combination of Markdown syntax and mindmaps.
 - [Smartdown](https://github.com/smartdown) - An authoring technology that simplifies the creation of explorable explanations.
 - [NetworkX](https://github.com/networkx/networkx) - A Python package for the creation, manipulation and study of complex networks.
