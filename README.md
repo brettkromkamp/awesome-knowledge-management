@@ -51,10 +51,11 @@
 - [Semantically Meaningful Relationships](https://brettkromkamp.com/posts/semantically-meaningful-relationships/)
 - [Create a Zettelkasten for your Notes to Improve Thinking and Writing &mdash; Zettelkasten Method](https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/)
 - [Different Kinds of Ties Between Notes &mdash; Zettelkasten Method](https://zettelkasten.de/posts/kinds-of-ties/)
+- [Brown Bag Lunch: An Intrepid Guide to Ontologies](https://www.mkbergman.com/936/brown-bag-lunch-an-intrepid-guide-to-ontologies/)
 
 ## Applications and Tools
 
-- [Contextualise](https://contextualise.dev/) - A tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources.
+- [Contextualise](https://contextualise.dev/) - A tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources &mdash; structured thought.
 - [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
 - [KgBase](https://kgbase.com/) - A tool to build your own knowledge graphs without writing code.
 - [Alphacortex](https://www.alphacortex.io/) - A knowledge engine that helps you organize and index your data according to a taxonomy that you define.
@@ -98,6 +99,7 @@
 - [Dendron](https://www.dendron.so/) - A local-first, markdown based, hierarchical note-taking application built on top of Visual Studio Code.
 - [Supernotes](https://supernotes.app/) - A productivity-focused collaborative and hierarchical note-taking application.
 - [Wiki.js](https://wiki.js.org/) - A self-hosted and highly customizable open source Wiki platform.
+- [Gephi](https://gephi.org/) - A visualization and exploration application for all kinds of graphs and networks.
 
 ## Libraries
 
