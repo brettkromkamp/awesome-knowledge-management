@@ -100,6 +100,7 @@
 - [Supernotes](https://supernotes.app/) - A productivity-focused collaborative and hierarchical note-taking application.
 - [Wiki.js](https://wiki.js.org/) - A self-hosted and highly customizable open source Wiki platform.
 - [Gephi](https://gephi.org/) - A visualization and exploration application for all kinds of graphs and networks.
+- [Logseq](https://logseq.com/) - A local-only, non-linear outliner for organizing your personal knowledge base.
 
 ## Libraries
 
