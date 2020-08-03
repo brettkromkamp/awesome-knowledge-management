@@ -99,9 +99,9 @@
 - [Dendron](https://www.dendron.so/) - A local-first, markdown based, hierarchical note-taking application built on top of Visual Studio Code.
 - [Supernotes](https://supernotes.app/) - A productivity-focused collaborative and hierarchical note-taking application.
 - [Wiki.js](https://wiki.js.org/) - A self-hosted and highly customizable open source Wiki platform.
-- [Gephi](https://gephi.org/) - A visualization and exploration application for all kinds of graphs and networks.
+- [Gephi](https://gephi.org/) - A visualizsation and exploration application for all kinds of graphs and networks.
 - [Logseq](https://logseq.com/) - A local-only, non-linear outliner for organizing your personal knowledge base.
-- [RemNote](https://www.remnote.io/) - Spaced-repetition powered note-taking tool that lets you structure knowledge exactly in the way you think about it.
+- [RemNote](https://www.remnote.io/) - A spaced-repetition powered note-taking tool that lets you structure knowledge exactly in the way you think about it.
 
 ## Libraries
 
