@@ -6,15 +6,15 @@
 
 ## Contents
 
-- [People](#people)
-- [Articles](#articles)
-- [Applications and Tools](#applications-and-tools)
-- [Libraries](#libraries)
-- [APIs](#apis)
-- [Knowledge Graphs in the Wild](#knowledge-graphs-in-the-wild)
-- [Related Awesome-Lists](#related-awesome-lists)
-- [Miscellaneous](#miscellaneous)
-- [Up and Coming](#up-and-coming)
+  - [People](#people)
+  - [Articles](#articles)
+  - [Applications and Tools](#applications-and-tools)
+  - [Libraries](#libraries)
+  - [APIs](#apis)
+  - [Knowledge Graphs in the Wild](#knowledge-graphs-in-the-wild)
+  - [Related Awesome-Lists](#related-awesome-lists)
+  - [Miscellaneous](#miscellaneous)
+  - [Up and Coming](#up-and-coming)
 
 ## People
 
@@ -101,6 +101,7 @@
 - [Wiki.js](https://wiki.js.org/) - A self-hosted and highly customizable open source Wiki platform.
 - [Gephi](https://gephi.org/) - A visualization and exploration application for all kinds of graphs and networks.
 - [Logseq](https://logseq.com/) - A local-only, non-linear outliner for organizing your personal knowledge base.
+- [RemNote](https://www.remnote.io/) - Spaced-repetition powered note-taking tool that lets you structure knowledge exactly in the way you think about it.
 
 ## Libraries
 
