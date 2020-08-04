@@ -102,6 +102,7 @@
 - [Gephi](https://gephi.org/) - A visualizsation and exploration application for all kinds of graphs and networks.
 - [Logseq](https://logseq.com/) - A local-only, non-linear outliner for organizing your personal knowledge base.
 - [RemNote](https://www.remnote.io/) - A spaced-repetition powered note-taking tool that lets you structure knowledge exactly in the way you think about it.
+- [Joplin](https://joplinapp.org/) - Open source note taking and to-do application, which can handle a large number of notes organized into notebooks. Markdown syntax, E2EE, and can be synced with several cloud services.
 
 ## Libraries
 
