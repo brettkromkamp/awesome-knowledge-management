@@ -102,6 +102,7 @@
 - [Gephi](https://gephi.org/) - A visualizsation and exploration application for all kinds of graphs and networks.
 - [Logseq](https://logseq.com/) - A local-only, non-linear outliner for organizing your personal knowledge base.
 - [RemNote](https://www.remnote.io/) - A spaced-repetition powered note-taking tool that lets you structure knowledge exactly in the way you think about it.
+- [Hode](https://github.com/JeffreyBenjaminBrown/hode) An editor, search engine and query language for a knowledge hypergraph. Relationships can have any number of members, and those members can be other relationships.
 
 ## Libraries
 
