@@ -120,7 +120,6 @@
 - [Treeviz](https://github.com/PierreCapo/treeviz) - A JavaScript library to represent tree diagrams with the ability to handle dynamic data flows.
 - [MindMup](https://github.com/mindmup/mapjs) - A JavaScript-based mind map canvas.
 - [jsMind](https://github.com/hizzgdev/jsmind) - A JavaScript library for mind map visualizations.
-- [jsPlumb](http://jsplumb.github.io/jsplumb/home.html) - A community edition is an SVG-based graph visualization library.
 - [GraphStream](http://graphstream-project.org/) - A Java library for the modeling and analysis of dynamic graphs.
 - [JGraphT](https://jgrapht.org/) - A Java library of graph theory data structures and algorithms.
 - [Dash Cytoscape](https://github.com/plotly/dash-cytoscape) - A [Dash](https://plotly.com/dash/) component library for creating interactive and customizable networks in Python, wrapped around Cytoscape.js.
