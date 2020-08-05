@@ -103,6 +103,8 @@
 - [Logseq](https://logseq.com/) - A local-only, non-linear outliner for organizing your personal knowledge base.
 - [RemNote](https://www.remnote.io/) - A spaced-repetition powered note-taking tool that lets you structure knowledge exactly in the way you think about it.
 - [Hode](https://github.com/JeffreyBenjaminBrown/hode) An editor, search engine and query language for a knowledge hypergraph. Relationships can have any number of members, and those members can be other relationships.
+- [Joplin](https://joplinapp.org/) - An open source note taking and to-do application which can handle a large number of notes organized into notebooks. Markdown syntax, end-to-end encryption and syncing with several cloud services.
+- [Zim Wiki](https://zim-wiki.org) - A local, Python-based graphical wiki tool that uses the filesystem as a data store.
 
 ## Libraries
 
@@ -121,7 +123,6 @@
 - [Treeviz](https://github.com/PierreCapo/treeviz) - A JavaScript library to represent tree diagrams with the ability to handle dynamic data flows.
 - [MindMup](https://github.com/mindmup/mapjs) - A JavaScript-based mind map canvas.
 - [jsMind](https://github.com/hizzgdev/jsmind) - A JavaScript library for mind map visualizations.
-- [jsPlumb](http://jsplumb.github.io/jsplumb/home.html) - A community edition is an SVG-based graph visualization library.
 - [GraphStream](http://graphstream-project.org/) - A Java library for the modeling and analysis of dynamic graphs.
 - [JGraphT](https://jgrapht.org/) - A Java library of graph theory data structures and algorithms.
 - [Dash Cytoscape](https://github.com/plotly/dash-cytoscape) - A [Dash](https://plotly.com/dash/) component library for creating interactive and customizable networks in Python, wrapped around Cytoscape.js.
