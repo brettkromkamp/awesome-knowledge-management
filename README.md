@@ -52,6 +52,7 @@
 - [Create a Zettelkasten for your Notes to Improve Thinking and Writing &mdash; Zettelkasten Method](https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/)
 - [Different Kinds of Ties Between Notes &mdash; Zettelkasten Method](https://zettelkasten.de/posts/kinds-of-ties/)
 - [Brown Bag Lunch: An Intrepid Guide to Ontologies](https://www.mkbergman.com/936/brown-bag-lunch-an-intrepid-guide-to-ontologies/)
+- [Atomic notes: How to use Zettelkasten to boost your creativity and productivity](https://zapier.com/blog/zettelkasten-method/)
 
 ## Applications and Tools
 
