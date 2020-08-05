@@ -102,6 +102,7 @@
 - [Gephi](https://gephi.org/) - A visualizsation and exploration application for all kinds of graphs and networks.
 - [Logseq](https://logseq.com/) - A local-only, non-linear outliner for organizing your personal knowledge base.
 - [RemNote](https://www.remnote.io/) - A spaced-repetition powered note-taking tool that lets you structure knowledge exactly in the way you think about it.
+- [Zim Wiki](https://zim-wiki.org) - A local, Python-based graphical wiki tool that uses the filesystem as a data store.
 
 ## Libraries
 
