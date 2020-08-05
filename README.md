@@ -104,6 +104,9 @@
 - [RemNote](https://www.remnote.io/) - A spaced-repetition powered note-taking tool that lets you structure knowledge exactly in the way you think about it.
 - [Joplin](https://joplinapp.org/) - An open source note taking and to-do application which can handle a large number of notes organized into notebooks. Markdown syntax, end-to-end encryption and syncing with several cloud services.
 - [Zim Wiki](https://zim-wiki.org) - A local, Python-based graphical wiki tool that uses the filesystem as a data store.
+- [Scrapbox](https://scrapbox.io/) - A knowledge base to create and research in context, including bi-directional linking and rapid outlining.
+- [MindMeister](https://www.mindmeister.com/) - An online mind mapping tool that lets you capture, develop and share ideas visually.
+- [bundleIQ](https://www.bundleiq.com/) - An application to organize your thoughts and collaborate on shared ideas in an AI-powered workspace.
 
 ## Libraries
 
