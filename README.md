@@ -53,6 +53,7 @@
 - [Different Kinds of Ties Between Notes &mdash; Zettelkasten Method](https://zettelkasten.de/posts/kinds-of-ties/)
 - [Brown Bag Lunch: An Intrepid Guide to Ontologies](https://www.mkbergman.com/936/brown-bag-lunch-an-intrepid-guide-to-ontologies/)
 - [Atomic notes: How to use Zettelkasten to boost your creativity and productivity](https://zapier.com/blog/zettelkasten-method/)
+- [How I use Obsidian to manage my goals, tasks, notes, and software development knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
 
 ## Applications and Tools
 
