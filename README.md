@@ -6,15 +6,15 @@
 
 ## Contents
 
-  - [People](#people)
-  - [Articles](#articles)
-  - [Applications and Tools](#applications-and-tools)
-  - [Libraries](#libraries)
-  - [APIs](#apis)
-  - [Knowledge Graphs in the Wild](#knowledge-graphs-in-the-wild)
-  - [Related Awesome-Lists](#related-awesome-lists)
-  - [Miscellaneous](#miscellaneous)
-  - [Up and Coming](#up-and-coming)
+- [People](#people)
+- [Articles](#articles)
+- [Applications and Tools](#applications-and-tools)
+- [Libraries](#libraries)
+- [APIs](#apis)
+- [Knowledge Graphs in the Wild](#knowledge-graphs-in-the-wild)
+- [Related Awesome-Lists](#related-awesome-lists)
+- [Miscellaneous](#miscellaneous)
+- [Up and Coming](#up-and-coming)
 
 ## People
 
