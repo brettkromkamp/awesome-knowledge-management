@@ -111,7 +111,8 @@
 - [MindMeister](https://www.mindmeister.com/) - An online mind mapping tool that lets you capture, develop and share ideas visually.
 - [bundleIQ](https://www.bundleiq.com/) - An application to organize your thoughts and collaborate on shared ideas in an AI-powered workspace.
 - [Taskade](https://www.taskade.com/) - A task driven real-time collaborative outliner for organizing projects, notes, with integrated video chat.
-- [DEVONThink](https://www.devontechnologies.com) - For macOS and iOS, end-to-end encrypted sync, wikilinks, Markdown syntax as well as rich text and HTML, AI-assisted quick filing, scriptable.
+- [VimWiki](https://vimwiki.github.io/) - A flexible personal wiki in Vim, including diary features.
+- [DEVONThink](https://www.devontechnologies.com) - A document-management application for macOS and iOS with end-to-end encrypted sync, wikilinks, Markdown syntax, rich text and HTML, AI-assisted quick filing and scripting.
 
 ## Libraries
 
