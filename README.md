@@ -114,6 +114,7 @@
 - [VimWiki](https://vimwiki.github.io/) - A flexible personal wiki in Vim, including diary features.
 - [DEVONThink](https://www.devontechnologies.com) - A document-management application for macOS and iOS with end-to-end encrypted sync, wikilinks, Markdown syntax, rich text and HTML, AI-assisted quick filing and scripting.
 - [Archivy](https://github.com/Uzay-G/archivy) - A self-hosted knowledge base with powerful search to build your own digital brain
+- [ArchiveBox](https://github.com/pirate/ArchiveBox) - open source self-hosted web archive
 
 ## Libraries
 
