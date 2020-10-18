@@ -114,6 +114,7 @@
 - [VimWiki](https://vimwiki.github.io/) - A flexible personal wiki in Vim, including diary features.
 - [DEVONThink](https://www.devontechnologies.com) - A document-management application for macOS and iOS with end-to-end encrypted sync, wikilinks, Markdown syntax, rich text and HTML, AI-assisted quick filing and scripting.
 - [Archivy](https://github.com/Uzay-G/archivy) - A self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
+- [mindlib](https://mindlib.de/) - A personal mind-mapping tool.
 
 ## Libraries
 
