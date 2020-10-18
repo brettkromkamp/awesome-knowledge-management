@@ -113,8 +113,7 @@
 - [Taskade](https://www.taskade.com/) - A task driven real-time collaborative outliner for organizing projects, notes, with integrated video chat.
 - [VimWiki](https://vimwiki.github.io/) - A flexible personal wiki in Vim, including diary features.
 - [DEVONThink](https://www.devontechnologies.com) - A document-management application for macOS and iOS with end-to-end encrypted sync, wikilinks, Markdown syntax, rich text and HTML, AI-assisted quick filing and scripting.
-- [Archivy](https://github.com/Uzay-G/archivy) - A self-hosted knowledge base with powerful search to build your own digital brain
-- [ArchiveBox](https://github.com/pirate/ArchiveBox) - open source self-hosted web archive
+- [Archivy](https://github.com/Uzay-G/archivy) - A self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 
 ## Libraries
 
@@ -167,6 +166,7 @@
 - [treevis.net - A Visual Bibliography of Tree Visualization](https://treevis.net/)
 - [A Visual Survey of Text Visualization Techniques](https://textvis.lnu.se/)
 - [Visualizing Group Structures in Graphs](http://groups-in-graphs.corinna-vehlow.com/)
+- [ArchiveBox](https://github.com/pirate/ArchiveBox) - An open source self-hosted internet archiving solution.
 
 ## Up and Coming
 
