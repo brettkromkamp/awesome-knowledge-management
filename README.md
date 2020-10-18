@@ -172,3 +172,4 @@
 ## Up and Coming
 
 - [Hypernote](https://hypernote.io/) - A text-first, always-ready, two-way-linked online notebook; currently in private beta (last updated: **July 12, 2020**).
+- [Rumin (Beta)](https://getrumin.com/) - A tool to visually organise online content (last updated: **October 18, 2020**).
