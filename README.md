@@ -54,6 +54,7 @@
 - [Brown Bag Lunch: An Intrepid Guide to Ontologies](https://www.mkbergman.com/936/brown-bag-lunch-an-intrepid-guide-to-ontologies/)
 - [Atomic notes: How to use Zettelkasten to boost your creativity and productivity](https://zapier.com/blog/zettelkasten-method/)
 - [How I use Obsidian to manage my goals, tasks, notes, and software development knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
+- [Backlinking Is Not Very Useful -- Often Even Harmful](https://zettelkasten.de/posts/backlinks-are-bad-links/)
 
 ## Applications and Tools
 
