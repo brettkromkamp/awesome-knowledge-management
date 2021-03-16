@@ -25,7 +25,7 @@
 ## Articles
 
 - [Why Roam is cool](https://divinations.substack.com/p/why-roam-is-cool)
-- [It's Not You - It's Your Knowledge Base](https://kevinslin.com/organizing/its_not_you_its_your_knowledge_base/)
+- [It's Not You - It's Your Knowledge Base](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html)
 - [Prefer associative ontologies to hierarchical taxonomies](https://notes.andymatuschak.org/z29hLZHiVt7W2uss2uMpSZquAX5T6vaeSF6Cy)
 - [Combining knowledge graphs, quickly and accurately](https://www.amazon.science/blog/combining-knowledge-graphs-quickly-and-accurately)
 - [A Brief History of Knowledge Graph's Main Ideas](http://knowledgegraph.today/paper.html)
