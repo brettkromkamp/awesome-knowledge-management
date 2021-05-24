@@ -6,15 +6,17 @@
 
 ## Contents
 
-- [People](#people)
-- [Articles](#articles)
-- [Applications and Tools](#applications-and-tools)
-- [Libraries](#libraries)
-- [APIs](#apis)
-- [Knowledge Graphs in the Wild](#knowledge-graphs-in-the-wild)
-- [Related Awesome-Lists](#related-awesome-lists)
-- [Miscellaneous](#miscellaneous)
-- [Up and Coming](#up-and-coming)
+- [Awesome Knowledge Management ![Awesome](https://awesome.re)](#awesome-knowledge-management-)
+  - [Contents](#contents)
+  - [People](#people)
+  - [Articles](#articles)
+  - [Applications and Tools](#applications-and-tools)
+  - [Libraries](#libraries)
+  - [APIs](#apis)
+  - [Knowledge Graphs in the Wild](#knowledge-graphs-in-the-wild)
+  - [Related Awesome-Lists](#related-awesome-lists)
+  - [Miscellaneous](#miscellaneous)
+  - [Up and Coming](#up-and-coming)
 
 ## People
 
@@ -56,6 +58,7 @@
 - [How I use Obsidian to manage my goals, tasks, notes, and software development knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
 - [Backlinking Is Not Very Useful -- Often Even Harmful](https://zettelkasten.de/posts/backlinks-are-bad-links/)
 - [Knowledge Graphs &mdash; Communications of the ACM](https://cacm.acm.org/magazines/2021/3/250711-knowledge-graphs/fulltext)
+- [An Introduction to Knowledge Graphs](https://ai.stanford.edu/blog/introduction-to-knowledge-graphs/)
 
 ## Applications and Tools
 
@@ -143,9 +146,7 @@
 - [Graphviz](https://graphviz.gitlab.io/) - An opensource graph visualisation library.
 - [Argdown](https://argdown.org/) - A Visual Studio Code extension (and command-line tool) for argument mapping using a Markdown-like syntax.
 - [Splitgraph](https://www.splitgraph.com/) - A data versioning and management system for PostgreSQL that allows you to merge multiple data sources (and live APIs) and surface them through a single PostgreSQL database.
-- [remarkable](https://github.com/mrjazz/remarkable) - Is a lightweight and functional readonly wiki. Cupports wikilinks. Could be used as web representation of Foam notes. [Demo](https://remarkablewiki.herokuapp.com/).
-
-
+- [Remarkable Wiki](https://github.com/mrjazz/remarkable) - A lightweight and functional read-only wiki. Supports wiki links. Could be used as web representation of Foam notes. [Demo](https://remarkablewiki.herokuapp.com/).
 
 ## APIs
 
