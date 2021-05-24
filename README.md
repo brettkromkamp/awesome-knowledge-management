@@ -6,7 +6,7 @@
 
 ## Contents
 
-- [Awesome Knowledge Management ![Awesome](https://awesome.re)](#awesome-knowledge-management-)
+- [Awesome Knowledge Management](#awesome-knowledge-management)
   - [Contents](#contents)
   - [People](#people)
   - [Articles](#articles)
