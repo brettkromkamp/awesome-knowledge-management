@@ -65,7 +65,6 @@
 - [Contextualise](https://contextualise.dev/) - A tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources &mdash; structured thought.
 - [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
 - [KgBase](https://kgbase.com/) - A tool to build your own knowledge graphs without writing code.
-- [Alphacortex](https://www.alphacortex.io/) - A knowledge engine that helps you organize and index your data according to a taxonomy that you define.
 - [WebVOWL](http://vowl.visualdataweb.org/webvowl.html) - A web application for the interactive visualization of ontologies.
 - [Polar](https://getpolarized.io/) - A knowledge manager for web pages, textbooks, PDFs, to read and study with remotely.
 - [Ontotext](https://www.ontotext.com/) - A platform that allows you to organize your information and documents into enterprise knowledge graphs.
