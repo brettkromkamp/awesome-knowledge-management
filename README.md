@@ -59,6 +59,7 @@
 - [Backlinking Is Not Very Useful -- Often Even Harmful](https://zettelkasten.de/posts/backlinks-are-bad-links/)
 - [Knowledge Graphs &mdash; Communications of the ACM](https://cacm.acm.org/magazines/2021/3/250711-knowledge-graphs/fulltext)
 - [An Introduction to Knowledge Graphs](https://ai.stanford.edu/blog/introduction-to-knowledge-graphs/)
+- [An Interactive Introduction to Zettelkasten](https://binnyva.com/zettelkasten/#what-why-and-how-of-zettelkasten)
 
 ## Applications and Tools
 
@@ -120,6 +121,8 @@
 - [Archivy](https://github.com/Uzay-G/archivy) - A self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [mindlib](https://mindlib.de/) - A personal mind-mapping tool.
 - [wreeto](https://wreeto.com/) - A knowledge management tool specifically targetting software engineers.
+- [metaphacts](https://metaphacts.com/) - An enterprise knowledge graph platform and related tools.
+- [Kanopi](https://kanopi.io/) - Web-based personal knowledge management note taking tool.
 
 ## Libraries
 
@@ -146,6 +149,8 @@
 - [Argdown](https://argdown.org/) - A Visual Studio Code extension (and command-line tool) for argument mapping using a Markdown-like syntax.
 - [Splitgraph](https://www.splitgraph.com/) - A data versioning and management system for PostgreSQL that allows you to merge multiple data sources (and live APIs) and surface them through a single PostgreSQL database.
 - [Remarkable Wiki](https://github.com/mrjazz/remarkable) - A lightweight and functional read-only wiki. Supports wiki links. Could be used as web representation of Foam notes. [Demo](https://remarkablewiki.herokuapp.com/).
+- [Apache Jena](https://jena.apache.org/) - Open source Java framework for building RDF-based semantic web and linked data applications.
+- [Eclipse RDF4J](https://rdf4j.org/) - Open source Java framework for processing and handling RDF data. 
 
 ## APIs
 
@@ -154,6 +159,7 @@
 ## Knowledge Graphs in the Wild
 
 - [Knowledge Graph Hub to produce a knowledge graph for COVID-19 and SARS-COV-2](https://github.com/Knowledge-Graph-Hub/kg-covid-19)
+- [metaphactory open Wikidata knowledge graph](https://wikidata.metaphacts.com/resource/app:Start)
 
 ## Related Awesome-Lists
 
