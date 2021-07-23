@@ -60,6 +60,7 @@
 - [Knowledge Graphs &mdash; Communications of the ACM](https://cacm.acm.org/magazines/2021/3/250711-knowledge-graphs/fulltext)
 - [An Introduction to Knowledge Graphs](https://ai.stanford.edu/blog/introduction-to-knowledge-graphs/)
 - [An Interactive Introduction to Zettelkasten](https://binnyva.com/zettelkasten/#what-why-and-how-of-zettelkasten)
+- [Metacrap: Putting the torch to seven straw-men of the meta-utopia](https://people.well.com/user/doctorow/metacrap.htm)
 
 ## Applications and Tools
 
