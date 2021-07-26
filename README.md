@@ -124,6 +124,7 @@
 - [wreeto](https://wreeto.com/) - A knowledge management tool specifically targetting software engineers.
 - [metaphacts](https://metaphacts.com/) - An enterprise knowledge graph platform and related tools.
 - [Kanopi](https://kanopi.io/) - Web-based personal knowledge management note taking tool.
+- [exegesis](https://exegesis.io/) - A writing app for caputuring and sharing disorganized, non-linear, creative thinking.
 
 ## Libraries
 
@@ -186,3 +187,4 @@
 
 - [Hypernote](https://hypernote.io/) - A text-first, always-ready, two-way-linked online notebook; currently in private beta (last updated: **July 12, 2020**).
 - [Rumin (Beta)](https://getrumin.com/) - A tool to visually organise online content (last updated: **October 18, 2020**).
+- [Athens](https://www.athensresearch.org/) - Open-source tool to link thoughts, reference key observations, and network your knowledge using a user-friendly outliner and knowledge graph (last updated: **July 26, 2021**).
