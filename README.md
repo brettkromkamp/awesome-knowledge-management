@@ -90,7 +90,7 @@
 - [Stemic](https://stemic.app/) - A visual thinking tool that helps understanding.
 - [Contexted](https://contexted.io/) - A relational note-taking app.
 - [Stardog](https://www.stardog.com/platform/) - An enterprise knowledge graph platform.
-- [Obsidian](https://obsidian.md/) - Is commercial knowledge base software that works on top of a local folder of [Markdown](https://daringfireball.net/projects/markdown/syntax) files.
+- [Obsidian](https://obsidian.md/) - Commercial knowledge base software that works on top of a local folder of [Markdown](https://daringfireball.net/projects/markdown/syntax) files.
 - [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with a focus on building large personal knowledge bases.
 - [Karma](https://www.karma.fm/) - A collaborative mind-mapping tool.
 - [Golden](https://golden.com/) - A self-constructing knowledge platform using a combination of artificial and human intelligence.
@@ -125,6 +125,7 @@
 - [metaphacts](https://metaphacts.com/) - An enterprise knowledge graph platform and related tools.
 - [Kanopi](https://kanopi.io/) - Web-based personal knowledge management note taking tool.
 - [exegesis](https://exegesis.io/) - A writing app for caputuring and sharing disorganized, non-linear, creative thinking.
+- [LinkedDataHub](https://atomgraph.com/products/linkeddatahub/) - Open-source software for low-code knowledge graph management.
 
 ## Libraries
 
