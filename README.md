@@ -148,12 +148,13 @@
 - [JGraphT](https://jgrapht.org/) - A Java library of graph theory data structures and algorithms.
 - [Dash Cytoscape](https://github.com/plotly/dash-cytoscape) - A [Dash](https://plotly.com/dash/) component library for creating interactive and customizable networks in Python, wrapped around Cytoscape.js.
 - [El Grapho](https://www.elgrapho.com/) - A high performance [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) graph data visualization engine.
-- [Graphviz](https://graphviz.gitlab.io/) - An opensource graph visualisation library.
+- [Graphviz](https://graphviz.gitlab.io/) - An open-source graph visualisation library.
 - [Argdown](https://argdown.org/) - A Visual Studio Code extension (and command-line tool) for argument mapping using a Markdown-like syntax.
 - [Splitgraph](https://www.splitgraph.com/) - A data versioning and management system for PostgreSQL that allows you to merge multiple data sources (and live APIs) and surface them through a single PostgreSQL database.
 - [Remarkable Wiki](https://github.com/mrjazz/remarkable) - A lightweight and functional read-only wiki. Supports wiki links. Could be used as web representation of Foam notes. [Demo](https://remarkablewiki.herokuapp.com/).
-- [Apache Jena](https://jena.apache.org/) - Open source Java framework for building RDF-based semantic web and linked data applications.
-- [Eclipse RDF4J](https://rdf4j.org/) - Open source Java framework for processing and handling RDF data. 
+- [Apache Jena](https://jena.apache.org/) - Open-source Java framework for building RDF-based semantic web and linked data applications.
+- [Eclipse RDF4J](https://rdf4j.org/) - Open-source Java framework for processing and handling RDF data. 
+- [Ontodia](https://github.com/metaphacts/ontodia) - A JavaScript library to visualize, navigate and explore data in the form of an interactive graph.
 
 ## APIs
 
