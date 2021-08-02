@@ -127,6 +127,7 @@
 - [exegesis](https://exegesis.io/) - A writing app for caputuring and sharing disorganized, non-linear, creative thinking.
 - [LinkedDataHub](https://atomgraph.com/products/linkeddatahub/) - Open-source software for low-code knowledge graph management.
 - [Franz Inc.](https://franz.com/) - An enterprise knowledge graph platform.
+- [Cambridge Semantics](https://www.cambridgesemantics.com/) - A knowledge management and enterprise analytics platform. 
 
 ## Libraries
 
