@@ -10,7 +10,7 @@
   - [Contents](#contents)
   - [People](#people)
   - [Articles](#articles)
-  - [Applications and Tools](#applications-and-tools)
+  - [Platforms, Applications and Tools](#platforms-applications-and-tools)
   - [Libraries](#libraries)
   - [APIs](#apis)
   - [Knowledge Graphs in the Wild](#knowledge-graphs-in-the-wild)
@@ -62,7 +62,7 @@
 - [An Interactive Introduction to Zettelkasten](https://binnyva.com/zettelkasten/#what-why-and-how-of-zettelkasten)
 - [Metacrap: Putting the torch to seven straw-men of the meta-utopia](https://people.well.com/user/doctorow/metacrap.htm)
 
-## Applications and Tools
+## Platforms, Applications and Tools
 
 - [Contextualise](https://contextualise.dev/) - A tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources &mdash; structured thought.
 - [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
@@ -126,6 +126,7 @@
 - [Kanopi](https://kanopi.io/) - Web-based personal knowledge management note taking tool.
 - [exegesis](https://exegesis.io/) - A writing app for caputuring and sharing disorganized, non-linear, creative thinking.
 - [LinkedDataHub](https://atomgraph.com/products/linkeddatahub/) - Open-source software for low-code knowledge graph management.
+- [Franz Inc.](https://franz.com/) - An enterprise knowledge graph platform.
 
 ## Libraries
 
