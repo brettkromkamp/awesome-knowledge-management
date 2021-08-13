@@ -11,6 +11,7 @@
   - [People](#people)
   - [Articles](#articles)
   - [Platforms, Applications and Tools](#platforms-applications-and-tools)
+  - [Semantic Web and RDF Ecosystem](#semantic-web-and-rdf-ecosystem)
   - [Libraries](#libraries)
   - [APIs](#apis)
   - [Knowledge Graphs in the Wild](#knowledge-graphs-in-the-wild)
@@ -67,9 +68,7 @@
 - [Contextualise](https://contextualise.dev/) - A tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources &mdash; structured thought.
 - [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
 - [KgBase](https://kgbase.com/) - A tool to build your own knowledge graphs without writing code.
-- [WebVOWL](http://vowl.visualdataweb.org/webvowl.html) - A web application for the interactive visualization of ontologies.
 - [Polar](https://getpolarized.io/) - A knowledge manager for web pages, textbooks, PDFs, to read and study with remotely.
-- [Ontotext](https://www.ontotext.com/) - A platform that allows you to organize your information and documents into enterprise knowledge graphs.
 - [Grakn](https://grakn.ai/) - An enterprise knowledge graph management system designed to scale.
 - [Notion](https://www.notion.so/) - An all-in-one workspace for your notes, tasks, wikis, and databases.
 - [TiddlyWiki](https://tiddlywiki.com/) - A non-linear notebook for capturing, organising and sharing complex information.
@@ -89,12 +88,11 @@
 - [Graph Commons](https://graphcommons.com/) - A tool that allows you to transform your data into interactive maps and untangle complex relations that impact you and your communities.
 - [Stemic](https://stemic.app/) - A visual thinking tool that helps understanding.
 - [Contexted](https://contexted.io/) - A relational note-taking app.
-- [Stardog](https://www.stardog.com/platform/) - An enterprise knowledge graph platform.
 - [Obsidian](https://obsidian.md/) - Commercial knowledge base software that works on top of a local folder of [Markdown](https://daringfireball.net/projects/markdown/syntax) files.
 - [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with a focus on building large personal knowledge bases.
 - [Karma](https://www.karma.fm/) - A collaborative mind-mapping tool.
 - [Golden](https://golden.com/) - A self-constructing knowledge platform using a combination of artificial and human intelligence.
-- [PoolParty](https://www.poolparty.biz/) - A semantic technology platform focused on the creation and management of enterprise knowledge graphs.
+knowledge graphs.
 - [Relanote](https://relanote.com/) - A tool that combines both hierarchical and non-hierarchical note-taking with bi-directional linking.
 - [Bytebase](https://bytebase.io./) - An online tool to write, organize and collaborate on notes.
 - [Foam](https://foambubble.github.io/foam/) - A personal knowledge management and sharing system inspired by Roam Research, built on [Visual Studio Code](https://code.visualstudio.com/) and GitHub.
@@ -122,12 +120,25 @@
 - [Archivy](https://github.com/Uzay-G/archivy) - A self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [mindlib](https://mindlib.de/) - A personal mind-mapping tool.
 - [wreeto](https://wreeto.com/) - A knowledge management tool specifically targetting software engineers.
-- [metaphacts](https://metaphacts.com/) - An enterprise knowledge graph platform and related tools.
 - [Kanopi](https://kanopi.io/) - Web-based personal knowledge management note taking tool.
 - [exegesis](https://exegesis.io/) - A writing app for caputuring and sharing disorganized, non-linear, creative thinking.
+
+## Semantic Web and RDF Ecosystem
+
+- [Apache Jena](https://jena.apache.org/) - Open-source Java framework for building RDF-based semantic web and linked data applications.
+- [Eclipse RDF4J](https://rdf4j.org/) - Open-source Java framework for processing and handling RDF data. 
+- [Ontodia](https://github.com/metaphacts/ontodia) - A JavaScript library to visualize, navigate and explore data in the form of an interactive graph.
+- [Stardog](https://www.stardog.com/platform/) - An enterprise knowledge graph platform.
+- [metaphacts](https://metaphacts.com/) - An enterprise knowledge graph platform and related tools.
 - [LinkedDataHub](https://atomgraph.com/products/linkeddatahub/) - Open-source software for low-code knowledge graph management.
+- [PoolParty](https://www.poolparty.biz/) - A semantic technology platform focused on the creation and management of enterprise.
+- [Ontotext](https://www.ontotext.com/) - A platform that allows you to organize your information and documents into enterprise knowledge graphs.
+- [WebVOWL](http://vowl.visualdataweb.org/webvowl.html) - A web application for the interactive visualization of ontologies.
 - [Franz Inc.](https://franz.com/) - An enterprise knowledge graph platform.
 - [Cambridge Semantics](https://www.cambridgesemantics.com/) - A knowledge management and enterprise analytics platform. 
+- [Comunica](https://comunica.dev/) - A knowledge graph querying framework.
+- [Protégé](https://protege.stanford.edu/) - A free, open-source ontology editor for building knowledge-based solutions.
+- [RDFLib](https://rdflib.readthedocs.io/en/stable/) - A pure Python package for working with RDF.
 
 ## Libraries
 
@@ -154,9 +165,6 @@
 - [Argdown](https://argdown.org/) - A Visual Studio Code extension (and command-line tool) for argument mapping using a Markdown-like syntax.
 - [Splitgraph](https://www.splitgraph.com/) - A data versioning and management system for PostgreSQL that allows you to merge multiple data sources (and live APIs) and surface them through a single PostgreSQL database.
 - [Remarkable Wiki](https://github.com/mrjazz/remarkable) - A lightweight and functional read-only wiki. Supports wiki links. Could be used as web representation of Foam notes. [Demo](https://remarkablewiki.herokuapp.com/).
-- [Apache Jena](https://jena.apache.org/) - Open-source Java framework for building RDF-based semantic web and linked data applications.
-- [Eclipse RDF4J](https://rdf4j.org/) - Open-source Java framework for processing and handling RDF data. 
-- [Ontodia](https://github.com/metaphacts/ontodia) - A JavaScript library to visualize, navigate and explore data in the form of an interactive graph.
 
 ## APIs
 
