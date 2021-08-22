@@ -78,7 +78,7 @@
 - [_Prtcl](http://www.uprtcl.io/) - A tool that combines the core ideas behind the World Wide Web and Git into the concept of Evolving Entities, or "Evees".
 - [Hypothesis](https://web.hypothes.is/) - A conversation layer over the entire web based on the annotation standards for digital documents developed by the [W3C Web Annotation Working Group](https://www.w3.org/annotation/).
 - [Transno](https://transno.com/) - An outline-based note-taking app with mind-mapping features.
-- [The Brain](https://www.thebrain.com/) - A notes editor with non-linear file management and powerful graph visualisation features.
+- [The Brain](https://www.thebrain.com/) - A notes editor with non-linear file management and powerful graph visualization features.
 - [TiddlyRoam](https://joekroese.github.io/tiddlyroam/) - A [TiddlyWiki](https://tiddlywiki.com/) with bi-directional links and graph maps.
 - [Gingko](https://gingkoapp.com/) - A tool that lets you shape your ideas with lists, outlines and cards.
 - [Cotoami](https://www.patreon.com/cotoami) - A note-taking application for both personal and collaborative use.
@@ -105,7 +105,7 @@
 - [Dendron](https://www.dendron.so/) - A local-first, markdown based, hierarchical note-taking application built on top of Visual Studio Code.
 - [Supernotes](https://supernotes.app/) - A productivity-focused collaborative and hierarchical note-taking application.
 - [Wiki.js](https://wiki.js.org/) - A self-hosted and highly customizable open source Wiki platform.
-- [Gephi](https://gephi.org/) - A visualizsation and exploration application for all kinds of graphs and networks.
+- [Gephi](https://gephi.org/) - A visualization and exploration application for all kinds of graphs and networks.
 - [Logseq](https://logseq.com/) - A local-only, non-linear outliner for organizing your personal knowledge base.
 - [RemNote](https://www.remnote.io/) - A spaced-repetition powered note-taking tool that lets you structure knowledge exactly in the way you think about it.
 - [Hode](https://github.com/JeffreyBenjaminBrown/hode) An editor, search engine and query language for a knowledge hypergraph. Relationships can have any number of members, and those members can be other relationships.
@@ -151,7 +151,7 @@
 - [JSNetworkX](http://jsnetworkx.org/) - A JavaScript port of the NetworkX graph library.
 - [vis.js](https://github.com/visjs) - A collection of dynamic browser-based visualization libraries for network graphs, timelines and charts (both 2D and 3D).
 - [Sigma](http://sigmajs.org/) - A JavaScript library dedicated to (network) graph drawing.
-- [Cytoscape.js](https://js.cytoscape.org/) - A graph theory (network) library for visualisation and analysis.
+- [Cytoscape.js](https://js.cytoscape.org/) - A graph theory (network) library for visualization and analysis.
 - [Alchemy.js](https://graphalchemist.github.io/Alchemy/#/) - A graph drawing application built almost entirely in [D3.js](https://d3js.org/).
 - [GoJS](https://gojs.net/latest/samples/index.html) - A **commercial** JavaScript and TypeScript library for building interactive diagrams and graphs.
 - [Treant.js](http://fperucic.github.io/treant-js/) - A SVG-based JavaScript library for for visualization of tree diagrams.
@@ -163,7 +163,7 @@
 - [JGraphT](https://jgrapht.org/) - A Java library of graph theory data structures and algorithms.
 - [Dash Cytoscape](https://github.com/plotly/dash-cytoscape) - A [Dash](https://plotly.com/dash/) component library for creating interactive and customizable networks in Python, wrapped around Cytoscape.js.
 - [El Grapho](https://www.elgrapho.com/) - A high performance [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) graph data visualization engine.
-- [Graphviz](https://graphviz.gitlab.io/) - An open-source graph visualisation library.
+- [Graphviz](https://graphviz.gitlab.io/) - An open-source graph visualization library.
 - [Argdown](https://argdown.org/) - A Visual Studio Code extension (and command-line tool) for argument mapping using a Markdown-like syntax.
 - [Splitgraph](https://www.splitgraph.com/) - A data versioning and management system for PostgreSQL that allows you to merge multiple data sources (and live APIs) and surface them through a single PostgreSQL database.
 - [Remarkable Wiki](https://github.com/mrjazz/remarkable) - A lightweight and functional read-only wiki. Supports wiki links. Could be used as web representation of Foam notes. [Demo](https://remarkablewiki.herokuapp.com/).
