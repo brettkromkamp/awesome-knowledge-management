@@ -63,6 +63,7 @@
 - [An Interactive Introduction to Zettelkasten](https://binnyva.com/zettelkasten/#what-why-and-how-of-zettelkasten)
 - [Metacrap: Putting the torch to seven straw-men of the meta-utopia](https://people.well.com/user/doctorow/metacrap.htm)
 - [The Zettelkasten Method](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
+- [The Fundamental Component Missing From Digital Zettelkastens](https://daily.scottscheper.com/num/243/)
 
 ## Platforms, Applications and Tools
 
@@ -124,6 +125,8 @@
 - [exegesis](https://exegesis.io/) - A writing app for caputuring and sharing disorganized, non-linear, creative thinking.
 - [Apache TinkerPop](https://tinkerpop.apache.org/) - A graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP).
 - [Infinity Maps](https://infinitymaps.io/en/) - A knowledge management system to help you organize, structure and share your knowledge.
+- [Rekowl](https://rekowl.com/) - A personal knowledge management system to help you also get better at remembering.
+- [Kite](https://erkal.github.io/kite/) - A graph visualization and analysis tool.
 
 ## Semantic Web and RDF Ecosystem
 
