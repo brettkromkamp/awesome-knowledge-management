@@ -136,7 +136,7 @@
 - [Stardog](https://www.stardog.com/platform/) - An enterprise knowledge graph platform.
 - [metaphacts](https://metaphacts.com/) - An enterprise knowledge graph platform and related tools.
 - [LinkedDataHub](https://atomgraph.com/products/linkeddatahub/) - Open-source software for low-code knowledge graph management.
-- [PoolParty](https://www.poolparty.biz/) - A semantic technology platform focused on the creation and management of enterprise.
+- [PoolParty](https://www.poolparty.biz/) - A semantic technology platform focused on the creation and management of enterprise knowledge graphs.
 - [Ontotext](https://www.ontotext.com/) - A platform that allows you to organize your information and documents into enterprise knowledge graphs.
 - [WebVOWL](http://vowl.visualdataweb.org/webvowl.html) - A web application for the interactive visualization of ontologies.
 - [Franz Inc.](https://franz.com/) - An enterprise knowledge graph platform.
