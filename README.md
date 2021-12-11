@@ -64,6 +64,7 @@
 - [Metacrap: Putting the torch to seven straw-men of the meta-utopia](https://people.well.com/user/doctorow/metacrap.htm)
 - [The Zettelkasten Method](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
 - [The Fundamental Component Missing From Digital Zettelkastens](https://daily.scottscheper.com/num/243/)
+- [The Business of Extracting Knowledge from Academic Publications](https://markusstrasser.org/extracting-knowledge-from-literature/)
 
 ## Platforms, Applications and Tools
 
@@ -127,6 +128,7 @@
 - [Infinity Maps](https://infinitymaps.io/en/) - A knowledge management system to help you organize, structure and share your knowledge.
 - [Rekowl](https://rekowl.com/) - A personal knowledge management system to help you also get better at remembering.
 - [Kite](https://erkal.github.io/kite/) - A graph visualization and analysis tool.
+- [Outline](https://www.getoutline.com/) - A knowledge base for teams.
 
 ## Semantic Web and RDF Ecosystem
 
