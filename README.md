@@ -129,6 +129,8 @@
 - [Rekowl](https://rekowl.com/) - A personal knowledge management system to help you also get better at remembering.
 - [Kite](https://erkal.github.io/kite/) - A graph visualization and analysis tool.
 - [Outline](https://www.getoutline.com/) - A knowledge base for teams.
+- [Notejoy](https://notejoy.com/) - Notetaking for teams.
+- [Craft](https://www.craft.do/) - Structured-content and notetaking platform.
 
 ## Semantic Web and RDF Ecosystem
 
@@ -207,3 +209,5 @@
 - [Hypernote](https://hypernote.io/) - A text-first, always-ready, two-way-linked online notebook; currently in private beta (last updated: **July 12, 2020**).
 - [Rumin (Beta)](https://getrumin.com/) - A tool to visually organise online content (last updated: **October 18, 2020**).
 - [Athens](https://www.athensresearch.org/) - Open-source tool to link thoughts, reference key observations, and network your knowledge using a user-friendly outliner and knowledge graph (last updated: **July 26, 2021**).
+- [Mem](https://get.mem.ai/) - Notetaking with powerful search features (last updated: **December 15, 2021**).
+- [Reflect](https://reflect.app/) - Personal knowledge graph (last updated: **December 15, 2021**).
