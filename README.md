@@ -65,6 +65,7 @@
 - [The Zettelkasten Method](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
 - [The Fundamental Component Missing From Digital Zettelkastens](https://daily.scottscheper.com/num/243/)
 - [The Business of Extracting Knowledge from Academic Publications](https://markusstrasser.org/extracting-knowledge-from-literature/)
+- [The Graph OS](https://alexanderobenauer.com/labnotes/014/)
 
 ## Platforms, Applications and Tools
 
