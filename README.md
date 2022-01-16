@@ -212,3 +212,4 @@
 - [Athens](https://www.athensresearch.org/) - Open-source tool to link thoughts, reference key observations, and network your knowledge using a user-friendly outliner and knowledge graph (last updated: **July 26, 2021**).
 - [Mem](https://get.mem.ai/) - Notetaking with powerful search features (last updated: **December 15, 2021**).
 - [Reflect](https://reflect.app/) - Personal knowledge graph (last updated: **December 15, 2021**).
+- [Heptabase](https://heptabase.com/) - A note-taking tool for visual learning (last updated: **January 16, 2021**).
