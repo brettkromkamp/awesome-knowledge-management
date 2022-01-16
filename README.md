@@ -25,6 +25,10 @@
 - [Anne-Laure Le Cunff](https://www.mentalnodes.com/about) - The founder of [Ness Labs](https://nesslabs.com/) and MSc of Applied Neuroscience candidate.
 - [Jack Park](http://www.topicquests.org/) - A computer scientist working in the fields of artificial and collective intelligence and co-author of the book *XML Topic Maps: Creating and Using Topic Maps for the Web*.
 
+## Communities
+
+- [Awesome Knowledge Management Discord Server](https://discord.gg/XPNeDSQE2j) - A Discord server discussing knowledge management tools and concepts.
+
 ## Articles
 
 - [Why Roam is cool](https://divinations.substack.com/p/why-roam-is-cool)
