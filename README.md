@@ -101,7 +101,7 @@
 - [Karma](https://www.karma.fm/) - A collaborative mind-mapping tool.
 - [Golden](https://golden.com/) - A self-constructing knowledge platform using a combination of artificial and human intelligence.
 - [Relanote](https://relanote.com/) - A tool that combines both hierarchical and non-hierarchical note-taking with bi-directional linking.
-- [Bytebase](https://bytebase.io./) - An online tool to write, organize and collaborate on notes.
+- [Bytebase](https://bytebase.io/) - An online tool to write, organize and collaborate on notes.
 - [Foam](https://foambubble.github.io/foam/) - A personal knowledge management and sharing system inspired by Roam Research, built on [Visual Studio Code](https://code.visualstudio.com/) and GitHub.
 - [Stroll](https://giffmex.org/stroll/stroll.html) - A notetaking tool built with the TiddlyWiki platform, imitating a number of features of Roam, including bi-directional links and autocomplete suggestions for linking.
 - [Zettlr](https://www.zettlr.com/) - "A markdown editor for the 21st century" that supports crosslinking and integrates with Zotero.
