@@ -73,6 +73,7 @@
 
 ## Platforms, Applications and Tools
 
+- [Anytype](https://anytype.io) - A tool built on IPFS and web3.0 with E2E encryption and zero knowledge backup service. Available on windows, mac, linux, ios and android.
 - [Contextualise](https://contextualise.dev/) - A tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources &mdash; structured thought.
 - [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
 - [KgBase](https://kgbase.com/) - A tool to build your own knowledge graphs without writing code.
