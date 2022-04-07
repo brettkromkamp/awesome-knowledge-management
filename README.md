@@ -124,7 +124,7 @@
 - [Taskade](https://www.taskade.com/) - A task driven real-time collaborative outliner for organizing projects, notes, with integrated video chat.
 - [VimWiki](https://vimwiki.github.io/) - A flexible personal wiki in Vim, including diary features.
 - [DEVONThink](https://www.devontechnologies.com) - A document-management application for macOS and iOS with end-to-end encrypted sync, wikilinks, Markdown syntax, rich text and HTML, AI-assisted quick filing and scripting.
-- [Archivy](https://github.com/Uzay-G/archivy) - A self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
+- [Archivy](https://archivy.github.io/) - A self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [mindlib](https://mindlib.de/) - A graph based knowledge management tool optimized for mobile use. Easy input via share, URL extraction and (semantic) suggestions from Wikipedia.
 - [wreeto](https://wreeto.com/) - A knowledge management tool specifically targetting software engineers.
 - [Kanopi](https://kanopi.io/) - Web-based personal knowledge management note taking tool.
