@@ -169,7 +169,6 @@
 - [Treant.js](http://fperucic.github.io/treant-js/) - A SVG-based JavaScript library for for visualization of tree diagrams.
 - [JavaScript InfoVis Toolkit](https://philogb.github.io/jit/index.html) - Provides tools for creating interactive data visualizations for the web.
 - [Treeviz](https://github.com/PierreCapo/treeviz) - A JavaScript library to represent tree diagrams with the ability to handle dynamic data flows.
-- [MindMup](https://github.com/mindmup/mapjs) - A JavaScript-based mind map canvas.
 - [jsMind](https://github.com/hizzgdev/jsmind) - A JavaScript library for mind map visualizations.
 - [GraphStream](http://graphstream-project.org/) - A Java library for the modeling and analysis of dynamic graphs.
 - [JGraphT](https://jgrapht.org/) - A Java library of graph theory data structures and algorithms.
