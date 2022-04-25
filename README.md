@@ -156,7 +156,7 @@
 
 ## Libraries
 
-- [TopicDB](https://github.com/brettkromkamp/topic-db) - A topic maps-based semantic graph store (using PostgreSQL for persistence).
+- [TopicDB](https://github.com/brettkromkamp/topic-db) - A topic maps-based semantic graph store (using SQLite for persistence).
 - [markmap-lib](https://markmap.js.org/) - A combination of Markdown syntax and mindmaps.
 - [Smartdown](https://github.com/smartdown) - An authoring technology that simplifies the creation of explorable explanations.
 - [NetworkX](https://github.com/networkx/networkx) - A Python package for the creation, manipulation and study of complex networks.
