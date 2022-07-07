@@ -70,6 +70,10 @@
 - [The Fundamental Component Missing From Digital Zettelkastens](https://daily.scottscheper.com/num/243/)
 - [The Business of Extracting Knowledge from Academic Publications](https://markusstrasser.org/extracting-knowledge-from-literature/)
 - [The Graph OS](https://alexanderobenauer.com/labnotes/014/)
+- [RDF Graph Data Model](https://docs.stardog.com/tutorials/rdf-graph-data-model)
+- [Learn SPQARQL](https://docs.stardog.com/tutorials/learn-sparql) 
+- [Good practices for URIs](https://www.ebi.ac.uk/rdf/documentation/good_practice_uri/)
+- [Ontology Generation and Visualization with Protégé](https://medium.com/@vindulajayawardana/ontology-generation-and-visualization-with-prot%C3%A9g%C3%A9-6df0af9955e0)
 
 ## Platforms, Applications and Tools
 
@@ -153,6 +157,8 @@
 - [Comunica](https://comunica.dev/) - A knowledge graph querying framework.
 - [Protégé](https://protege.stanford.edu/) - A free, open-source ontology editor for building knowledge-based solutions.
 - [RDFLib](https://rdflib.readthedocs.io/en/stable/) - A pure Python package for working with RDF.
+- [EasyRDF](https://www.easyrdf.org/) - A PHP library designed to make it easy to consume and produce RDF.
+- [VOWL](http://vowl.visualdataweb.org/) - Visual Notation for OWL Ontologies.
 
 ## Libraries
 
