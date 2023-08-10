@@ -140,6 +140,7 @@
 - [Outline](https://www.getoutline.com/) - A knowledge base for teams.
 - [Notejoy](https://notejoy.com/) - Notetaking for teams.
 - [Craft](https://www.craft.do/) - Structured-content and notetaking platform.
+- [Kinopio](kinopio.club) - A online mind mapping and journaling tool.
 
 ## Semantic Web and RDF Ecosystem
 
