@@ -140,6 +140,7 @@
 - [Outline](https://www.getoutline.com/) - A knowledge base for teams.
 - [Notejoy](https://notejoy.com/) - Notetaking for teams.
 - [Craft](https://www.craft.do/) - Structured-content and notetaking platform.
+- [AFFiNE](https://affine.pro/) - Open source and privacy first next-generation collaborative knowledge base for professionals.
 
 ## Semantic Web and RDF Ecosystem
 
