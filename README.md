@@ -223,4 +223,4 @@
 - [Mem](https://get.mem.ai/) - Notetaking with powerful search features (last updated: **December 15, 2021**).
 - [Reflect](https://reflect.app/) - Personal knowledge graph (last updated: **December 15, 2021**).
 - [Heptabase](https://heptabase.com/) - A note-taking tool for visual learning (last updated: **January 16, 2022**).
-- [NotePlan](https://noteplan.co) - A personal knowledge management tool with two-way-linking with search and filters.
+- [NotePlan](https://noteplan.co) - A personal knowledge management tool with two-way-linking with search and filters (last updated: **April 12, 2024**).
