@@ -141,6 +141,7 @@
 - [Notejoy](https://notejoy.com/) - Notetaking for teams.
 - [Craft](https://www.craft.do/) - Structured-content and notetaking platform.
 - [AFFiNE](https://affine.pro/) - Open source and privacy first next-generation collaborative knowledge base for professionals.
+- [Znote](https://znote.io) - A productivity-focused note-taking app designed for doers to create notes with actionable steps.
 
 ## Semantic Web and RDF Ecosystem
 
