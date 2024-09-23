@@ -102,7 +102,6 @@
 - [Contexted](https://contexted.io/) - A relational note-taking app.
 - [Obsidian](https://obsidian.md/) - Commercial knowledge base software that works on top of a local folder of [Markdown](https://daringfireball.net/projects/markdown/syntax) files.
 - [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with a focus on building large personal knowledge bases.
-- [Karma](https://www.karma.fm/) - A collaborative mind-mapping tool.
 - [Golden](https://golden.com/) - A self-constructing knowledge platform using a combination of artificial and human intelligence.
 - [Relanote](https://relanote.com/) - A tool that combines both hierarchical and non-hierarchical note-taking with bi-directional linking.
 - [Bytebase](https://bytebase.io/) - An online tool to write, organize and collaborate on notes.
