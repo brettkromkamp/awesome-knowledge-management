@@ -143,6 +143,7 @@
 - [AFFiNE](https://affine.pro/) - Open source and privacy first next-generation collaborative knowledge base for professionals.
 - [Znote](https://znote.io) - A productivity-focused note-taking app designed for doers to create notes with actionable steps.
 - [samarbeid](https://www.samarbeid.org/) - An open source collaboration tool for non-technical teams that helps to manage all workflows, documents, data and chats in a networked space.
+- [ZhihuAgent](https://github.com/SamuelGong/ZhihuAgent) - AI-powered Q&A assistant that answers from your Zhihu bookmarks using a custom local knowledge base.
 
 ## Semantic Web and RDF Ecosystem
 
