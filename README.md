@@ -80,7 +80,7 @@
 - [Contextualise](https://contextualise.dev/) - A tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources &mdash; structured thought.
 - [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
 - [KgBase](https://kgbase.com/) - A tool to build your own knowledge graphs without writing code.
-- [Polar](https://getpolarized.io/) - A knowledge manager for web pages, textbooks, PDFs, to read and study with remotely.
+- [Polar](https://github.com/BojanKV/polar) - A knowledge manager for web pages, textbooks, PDFs, to read and study with remotely. ⚠️ Website no longer active; project appears unmaintained.
 - [Grakn](https://grakn.ai/) - An enterprise knowledge graph management system designed to scale.
 - [Notion](https://www.notion.so/) - An all-in-one workspace for your notes, tasks, wikis, and databases.
 - [TiddlyWiki](https://tiddlywiki.com/) - A non-linear notebook for capturing, organising and sharing complex information.
