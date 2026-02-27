@@ -143,6 +143,7 @@
 - [AFFiNE](https://affine.pro/) - Open source and privacy first next-generation collaborative knowledge base for professionals.
 - [Znote](https://znote.io) - A productivity-focused note-taking app designed for doers to create notes with actionable steps.
 - [samarbeid](https://www.samarbeid.org/) - An open source collaboration tool for non-technical teams that helps to manage all workflows, documents, data and chats in a networked space.
+- [KeepRule](https://keeprule.com/) - A knowledge platform that curates 1,300+ investment and decision-making principles from 26 legendary thinkers, organized into searchable categories with scenario-based walkthroughs.
 
 ## Semantic Web and RDF Ecosystem
 
