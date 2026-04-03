@@ -143,6 +143,7 @@
 - [AFFiNE](https://affine.pro/) - Open source and privacy first next-generation collaborative knowledge base for professionals.
 - [Znote](https://znote.io) - A productivity-focused note-taking app designed for doers to create notes with actionable steps.
 - [samarbeid](https://www.samarbeid.org/) - An open source collaboration tool for non-technical teams that helps to manage all workflows, documents, data and chats in a networked space.
+- [FoJin](https://github.com/xr843/fojin) - An open-source Buddhist digital text platform with 9,200+ texts across 30+ languages, featuring knowledge graphs, semantic search, AI-powered Q&A (RAG) and a parallel reading interface.
 
 ## Semantic Web and RDF Ecosystem
 
