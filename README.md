@@ -226,3 +226,4 @@
 - [Reflect](https://reflect.app/) - Personal knowledge graph (last updated: **December 15, 2021**).
 - [Heptabase](https://heptabase.com/) - A note-taking tool for visual learning (last updated: **January 16, 2022**).
 - [NotePlan](https://noteplan.co) - A personal knowledge management tool with two-way-linking with search and filters (last updated: **April 12, 2024**).
+- [BrainDB](https://github.com/beckfexx/BrainDB) - A local-first AI memory and multi-agent orchestrator with hybrid search (SQLite FTS5 + semantic), knowledge graph, self-learning (Inception), and 51 MCP tools. TypeScript, Bun, AGPL-3.0 (last updated: **April 7, 2026**).
