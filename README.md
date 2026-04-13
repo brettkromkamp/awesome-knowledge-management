@@ -99,7 +99,6 @@
 - [Org-roam](https://github.com/org-roam/org-roam) - A Roam replica built on top of the all-powerful [Org-mode](https://orgmode.org/) for Emacs.
 - [Graph Commons](https://graphcommons.com/) - A tool that allows you to transform your data into interactive maps and untangle complex relations that impact you and your communities.
 - [Stemic](https://stemic.app/) - A visual thinking tool that helps understanding.
-- [Contexted](https://contexted.io/) - A relational note-taking app.
 - [Obsidian](https://obsidian.md/) - Commercial knowledge base software that works on top of a local folder of [Markdown](https://daringfireball.net/projects/markdown/syntax) files.
 - [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with a focus on building large personal knowledge bases.
 - [Golden](https://golden.com/) - A self-constructing knowledge platform using a combination of artificial and human intelligence.
