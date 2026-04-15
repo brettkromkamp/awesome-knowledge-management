@@ -144,6 +144,8 @@
 - [Znote](https://znote.io) - A productivity-focused note-taking app designed for doers to create notes with actionable steps.
 - [samarbeid](https://www.samarbeid.org/) - An open source collaboration tool for non-technical teams that helps to manage all workflows, documents, data and chats in a networked space.
 
+- [Burn 451](https://www.burn451.cloud) - An AI-powered reading tool that deletes what you never read and curates what you do. Editorial vaults for AI thought leaders (Karpathy, Simon Willison, Paul Graham, Naval Ravikant) plus hub concept pages on agentic engineering and vibe coding. [#opensource](https://github.com/Fisher521/killmybookmark)
+
 ## Semantic Web and RDF Ecosystem
 
 - [Apache Jena](https://jena.apache.org/) - Open-source Java framework for building RDF-based semantic web and linked data applications.
