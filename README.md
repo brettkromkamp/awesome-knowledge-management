@@ -143,6 +143,7 @@
 - [AFFiNE](https://affine.pro/) - Open source and privacy first next-generation collaborative knowledge base for professionals.
 - [Znote](https://znote.io) - A productivity-focused note-taking app designed for doers to create notes with actionable steps.
 - [samarbeid](https://www.samarbeid.org/) - An open source collaboration tool for non-technical teams that helps to manage all workflows, documents, data and chats in a networked space.
+- [Memex](https://github.com/memex-lab/memex) ([website](https://www.memexlab.ai/)) - An open-source, local-first AI journal for iOS and Android. A multi-agent system turns text, photo and voice fragments into structured timeline cards, and organizes knowledge using the P.A.R.A. methodology.
 
 ## Semantic Web and RDF Ecosystem
 
