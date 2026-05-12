@@ -76,6 +76,7 @@
 - [Knowledge Graphs, a Contextualise Topic Map](https://contextualise.dev/topics/view/15/home)
 
 ## Platforms, Applications and Tools
+- [Qonspekt](https://qonspekt.github.io/qonspekt/) - Browser tool: article to atomic Obsidian notes via Claude AI. BYOK. [GitHub](https://github.com/Qonspekt/qonspekt)
 
 - [Contextualise](https://contextualise.dev/) - A tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources &mdash; structured thought.
 - [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
