@@ -74,6 +74,7 @@
 - [Good practices for URIs](https://www.ebi.ac.uk/rdf/documentation/good_practice_uri/)
 - [Ontology Generation and Visualization with Protégé](https://medium.com/@vindulajayawardana/ontology-generation-and-visualization-with-prot%C3%A9g%C3%A9-6df0af9955e0)
 - [Knowledge Graphs, a Contextualise Topic Map](https://contextualise.dev/topics/view/15/home)
+- [Obsidian Holds the Notes. Claude Does the Work.](https://ivanmisic.net/blog/ai-tools/claude-obsidian-second-brain)
 
 ## Platforms, Applications and Tools
 
