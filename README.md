@@ -147,6 +147,7 @@
 - [AFFiNE](https://affine.pro/) - Open source and privacy first next-generation collaborative knowledge base for professionals.
 - [Znote](https://znote.io) - A productivity-focused note-taking app designed for doers to create notes with actionable steps.
 - [samarbeid](https://www.samarbeid.org/) - An open source collaboration tool for non-technical teams that helps to manage all workflows, documents, data and chats in a networked space.
+- [Gramax](https://gram.ax/) - Free, open-source application for creating, editing, and publishing Git-driven documentation sites using Markdown and a visual editor.
 - [tela](https://telawiki.com) - Open-source, self-hostable team wiki with a built-in MCP server so agents read and write it; Atlas turns a git repo or Jira into cited, maintained docs.
 - [OATS](https://github.com/ariso-ai/oats) - Open-source macOS meeting-notes app that records conversations, transcribes them, labels speakers, and generates Markdown notes with an optional fully offline mode.
 - [Nodus](https://github.com/Drakonis96/nodus) - Desktop workspace for researchers, teachers, and students to connect sources, notes, data, ideas, and learning materials.
