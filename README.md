@@ -141,7 +141,6 @@
 - [Apache TinkerPop](https://tinkerpop.apache.org/) - A graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP).
 - [Infinity Maps](https://infinitymaps.io/en/) - A knowledge management system to help you organize, structure and share your knowledge.
 - [IWE](https://iwe.md/) - A markdown-based knowledge management tool with graph navigation via LSP, working with VS Code, Neovim, Zed and Helix.
-- [Rekowl](https://rekowl.com/) - A personal knowledge management system to help you also get better at remembering.
 - [Kite](https://erkal.github.io/kite/) - A graph visualization and analysis tool.
 - [Outline](https://www.getoutline.com/) - A knowledge base for teams.
 - [Notejoy](https://notejoy.com/) - Notetaking for teams.
