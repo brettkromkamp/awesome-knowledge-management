@@ -108,6 +108,7 @@
 - [Foam](https://foambubble.github.io/foam/) - A personal knowledge management and sharing system inspired by Roam Research, built on [Visual Studio Code](https://code.visualstudio.com/) and GitHub.
 - [Stroll](https://giffmex.org/stroll/stroll.html) - A notetaking tool built with the TiddlyWiki platform, imitating a number of features of Roam, including bi-directional links and autocomplete suggestions for linking.
 - [Zettlr](https://www.zettlr.com/) - "A markdown editor for the 21st century" that supports crosslinking and integrates with Zotero.
+- [TopicSplit](https://github.com/andrwspt/topicsplit) — Free offline semantic text grouper. Splits pasted text into topic segments by meaning, not word count. Perfect for atomizing articles into atomic notes for Obsidian, Logseq, and Zettelkasten workflows. 100% client-side, no tracking.
 - [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki) - An open-source extension to MediaWiki that that can turn a wiki into a powerful and flexible knowledge management system.
 - [mymind](https://mymind.com/) - Save notes, bookmarks, web clippings and documents for subsequent automatic categorization.
 - [Loopy](https://ncase.me/loopy/) - A tool that includes simulations and visual programming for thinking in systems.
