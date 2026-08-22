@@ -77,6 +77,8 @@
 
 ## Platforms, Applications and Tools
 
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks and AI chat. Plain markdown files, no accounts, no cloud. MIT.
+
 - [Contextualise](https://contextualise.dev/) - A tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources &mdash; structured thought.
 - [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
 - [KgBase](https://kgbase.com/) - A tool to build your own knowledge graphs without writing code.
@@ -95,11 +97,11 @@
 - [Cotoami](https://www.patreon.com/cotoami) - A note-taking application for both personal and collaborative use.
 - [notegraph](http://notegraph.com/) - A tool that provides a way to visually organise information and ideas (not available, yet).
 - [IdeaFlow](https://www.ideaflow.io/) - A human-AI hybrid platform to augment the collective intelligence of groups.
+- [Screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording for knowledge capture. Build AI apps with full context. Works with Ollama.
 - [Topincs](https://www.topincs.com/tour) - A topic maps-based 4GL platform for online systems.
 - [Org-roam](https://github.com/org-roam/org-roam) - A Roam replica built on top of the all-powerful [Org-mode](https://orgmode.org/) for Emacs.
 - [Graph Commons](https://graphcommons.com/) - A tool that allows you to transform your data into interactive maps and untangle complex relations that impact you and your communities.
 - [Stemic](https://stemic.app/) - A visual thinking tool that helps understanding.
-- [Contexted](https://contexted.io/) - A relational note-taking app.
 - [Obsidian](https://obsidian.md/) - Commercial knowledge base software that works on top of a local folder of [Markdown](https://daringfireball.net/projects/markdown/syntax) files.
 - [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with a focus on building large personal knowledge bases.
 - [Golden](https://golden.com/) - A self-constructing knowledge platform using a combination of artificial and human intelligence.
@@ -108,6 +110,7 @@
 - [Foam](https://foambubble.github.io/foam/) - A personal knowledge management and sharing system inspired by Roam Research, built on [Visual Studio Code](https://code.visualstudio.com/) and GitHub.
 - [Stroll](https://giffmex.org/stroll/stroll.html) - A notetaking tool built with the TiddlyWiki platform, imitating a number of features of Roam, including bi-directional links and autocomplete suggestions for linking.
 - [Zettlr](https://www.zettlr.com/) - "A markdown editor for the 21st century" that supports crosslinking and integrates with Zotero.
+- [TopicSplit](https://github.com/andrwspt/topicsplit) — Free offline semantic text grouper. Splits pasted text into topic segments by meaning, not word count. Perfect for atomizing articles into atomic notes for Obsidian, Logseq, and Zettelkasten workflows. 100% client-side, no tracking.
 - [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki) - An open-source extension to MediaWiki that that can turn a wiki into a powerful and flexible knowledge management system.
 - [mymind](https://mymind.com/) - Save notes, bookmarks, web clippings and documents for subsequent automatic categorization.
 - [Loopy](https://ncase.me/loopy/) - A tool that includes simulations and visual programming for thinking in systems.
@@ -123,6 +126,7 @@
 - [Joplin](https://joplinapp.org/) - An open source note taking and to-do application which can handle a large number of notes organized into notebooks. Markdown syntax, end-to-end encryption and syncing with several cloud services.
 - [Zim Wiki](https://zim-wiki.org) - A local, Python-based graphical wiki tool that uses the filesystem as a data store.
 - [Scrapbox](https://scrapbox.io/) - A knowledge base to create and research in context, including bi-directional linking and rapid outlining.
+- [MindBase](https://github.com/frankchu91/mindbase-llm-wiki) - An open-source implementation of Karpathy's LLM Wiki idea: an AI maintains a persistent markdown wiki from your notes and sources — approval-gated updates, contradiction linting, runs on free local models.
 - [MindMeister](https://www.mindmeister.com/) - An online mind mapping tool that lets you capture, develop and share ideas visually.
 - [bundleIQ](https://www.bundleiq.com/) - An application to organize your thoughts and collaborate on shared ideas in an AI-powered workspace.
 - [Taskade](https://www.taskade.com/) - A task driven real-time collaborative outliner for organizing projects, notes, with integrated video chat.
@@ -135,7 +139,7 @@
 - [exegesis](https://exegesis.io/) - A writing app for caputuring and sharing disorganized, non-linear, creative thinking.
 - [Apache TinkerPop](https://tinkerpop.apache.org/) - A graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP).
 - [Infinity Maps](https://infinitymaps.io/en/) - A knowledge management system to help you organize, structure and share your knowledge.
-- [Rekowl](https://rekowl.com/) - A personal knowledge management system to help you also get better at remembering.
+- [IWE](https://iwe.md/) - A markdown-based knowledge management tool with graph navigation via LSP, working with VS Code, Neovim, Zed and Helix.
 - [Kite](https://erkal.github.io/kite/) - A graph visualization and analysis tool.
 - [Outline](https://www.getoutline.com/) - A knowledge base for teams.
 - [Notejoy](https://notejoy.com/) - Notetaking for teams.
@@ -144,6 +148,20 @@
 - [Znote](https://znote.io) - A productivity-focused note-taking app designed for doers to create notes with actionable steps.
 - [samarbeid](https://www.samarbeid.org/) - An open source collaboration tool for non-technical teams that helps to manage all workflows, documents, data and chats in a networked space.
 - [SwarmVault](https://swarmvault.ai/) - A local-first, open-source knowledge base compiler that turns raw sources (books, notes, transcripts, files, URLs, code) into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Integrates with Obsidian and exposes an MCP server for AI assistants.
+- [Soda](https://getsoda.app) - The Knowledge layer for customer-facing teams. Living memory built from every call, app and conversation.
+- [Capacities](https://www.capacities.io/) - Linked objects as the main idea to structure information.
+- [Trupeer](https://www.trupeer.ai/) - An AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
+- [KeepRule](https://keeprule.com/) - A knowledge platform that curates 1,300+ investment and decision-making principles from 26 legendary thinkers, organized into searchable categories with scenario-based walkthroughs.
+- [Mindwork](https://mindwork.it.com/) - A Cursor-like AI workspace for deep and focused personal knowledge management.
+- [ZhihuAgent](https://github.com/SamuelGong/ZhihuAgent) - AI-powered Q&A assistant that answers from your Zhihu bookmarks using a custom local knowledge base.
+- [Gramax](https://gram.ax/) - Free, open-source application for creating, editing, and publishing Git-driven documentation sites using Markdown and a visual editor.
+- [tela](https://telawiki.com) - Open-source, self-hostable team wiki with a built-in MCP server so agents read and write it; Atlas turns a git repo or Jira into cited, maintained docs.
+- [OATS](https://github.com/ariso-ai/oats) - Open-source macOS meeting-notes app that records conversations, transcribes them, labels speakers, and generates Markdown notes with an optional fully offline mode.
+- [Nodus](https://github.com/Drakonis96/nodus) - Desktop workspace for researchers, teachers, and students to connect sources, notes, data, ideas, and learning materials.
+- [NoteGen](https://github.com/codexu/note-gen) - An open-source, local-first Markdown note-taking app that helps capture scattered information and organize it into structured notes with AI.
+- [ThoughtDAG](https://github.com/chenxiachan/thoughtdag) - An open-source, local-first visual workspace for branching and managing LLM conversations, where graph edges determine the context sent to the model.
+
+- [Burn 451](https://www.burn451.cloud) - An AI-powered reading tool that deletes what you never read and curates what you do. Editorial vaults for AI thought leaders (Karpathy, Simon Willison, Paul Graham, Naval Ravikant) plus hub concept pages on agentic engineering and vibe coding. [#opensource](https://github.com/Fisher521/killmybookmark)
 
 ## Semantic Web and RDF Ecosystem
 
@@ -227,3 +245,6 @@
 - [Reflect](https://reflect.app/) - Personal knowledge graph (last updated: **December 15, 2021**).
 - [Heptabase](https://heptabase.com/) - A note-taking tool for visual learning (last updated: **January 16, 2022**).
 - [NotePlan](https://noteplan.co) - A personal knowledge management tool with two-way-linking with search and filters (last updated: **April 12, 2024**).
+
+- [AgentsKB](https://agentskb.com) - Pre-researched knowledge for AI agents. Not RAG - we already did the research. Your agent queries, gets the answer instantly.
+- [Memotron](https://memotron.app) - Comprehensive personal knowledge management tool with extensive clipping, capturing and organizing capabilities. (last updated: **June 06, 2025**).
