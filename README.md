@@ -227,7 +227,7 @@
 - [A Visual Survey of Text Visualization Techniques](https://textvis.lnu.se/)
 - [Visualizing Group Structures in Graphs](http://groups-in-graphs.corinna-vehlow.com/)
 - [ArchiveBox](https://github.com/pirate/ArchiveBox) - An open source self-hosted internet archiving solution.
-
+- [PickTheTool](https://pickthetool.com/) - Neutral pickers and comparisons to help choose productivity and knowledge tools.
 ## Up and Coming
 
 - [Hypernote](https://hypernote.io/) - A text-first, always-ready, two-way-linked online notebook; currently in private beta (last updated: **July 12, 2020**).
