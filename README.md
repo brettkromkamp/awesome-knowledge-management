@@ -143,6 +143,7 @@
 - [AFFiNE](https://affine.pro/) - Open source and privacy first next-generation collaborative knowledge base for professionals.
 - [Znote](https://znote.io) - A productivity-focused note-taking app designed for doers to create notes with actionable steps.
 - [samarbeid](https://www.samarbeid.org/) - An open source collaboration tool for non-technical teams that helps to manage all workflows, documents, data and chats in a networked space.
+- [ThoughtDAG](https://github.com/chenxiachan/thoughtdag) - An open-source, local-first visual workspace for branching and managing LLM conversations, where graph edges determine the context sent to the model.
 
 ## Semantic Web and RDF Ecosystem
 
@@ -226,3 +227,4 @@
 - [Reflect](https://reflect.app/) - Personal knowledge graph (last updated: **December 15, 2021**).
 - [Heptabase](https://heptabase.com/) - A note-taking tool for visual learning (last updated: **January 16, 2022**).
 - [NotePlan](https://noteplan.co) - A personal knowledge management tool with two-way-linking with search and filters (last updated: **April 12, 2024**).
+ThoughtDAG
