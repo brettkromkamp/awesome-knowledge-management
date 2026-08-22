@@ -97,6 +97,7 @@
 - [Cotoami](https://www.patreon.com/cotoami) - A note-taking application for both personal and collaborative use.
 - [notegraph](http://notegraph.com/) - A tool that provides a way to visually organise information and ideas (not available, yet).
 - [IdeaFlow](https://www.ideaflow.io/) - A human-AI hybrid platform to augment the collective intelligence of groups.
+- [Screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording for knowledge capture. Build AI apps with full context. Works with Ollama.
 - [Topincs](https://www.topincs.com/tour) - A topic maps-based 4GL platform for online systems.
 - [Org-roam](https://github.com/org-roam/org-roam) - A Roam replica built on top of the all-powerful [Org-mode](https://orgmode.org/) for Emacs.
 - [Graph Commons](https://graphcommons.com/) - A tool that allows you to transform your data into interactive maps and untangle complex relations that impact you and your communities.
