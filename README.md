@@ -147,6 +147,7 @@
 - [AFFiNE](https://affine.pro/) - Open source and privacy first next-generation collaborative knowledge base for professionals.
 - [Znote](https://znote.io) - A productivity-focused note-taking app designed for doers to create notes with actionable steps.
 - [samarbeid](https://www.samarbeid.org/) - An open source collaboration tool for non-technical teams that helps to manage all workflows, documents, data and chats in a networked space.
+- [SwarmVault](https://swarmvault.ai/) - A local-first, open-source knowledge base compiler that turns raw sources (books, notes, transcripts, files, URLs, code) into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Integrates with Obsidian and exposes an MCP server for AI assistants.
 - [Soda](https://getsoda.app) - The Knowledge layer for customer-facing teams. Living memory built from every call, app and conversation.
 - [Capacities](https://www.capacities.io/) - Linked objects as the main idea to structure information.
 - [Trupeer](https://www.trupeer.ai/) - An AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
