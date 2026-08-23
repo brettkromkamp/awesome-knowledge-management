@@ -169,6 +169,7 @@
 - [ThoughtDAG](https://github.com/chenxiachan/thoughtdag) - An open-source, local-first visual workspace for branching and managing LLM conversations, where graph edges determine the context sent to the model.
 - [Burn 451](https://www.burn451.cloud) - An AI-powered reading tool that deletes what you never read and curates what you do. Editorial vaults for AI thought leaders (Karpathy, Simon Willison, Paul Graham, Naval Ravikant) plus hub concept pages on agentic engineering and vibe coding.
 
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: write notes, track tasks, chat with an AI that knows your files — all plain Markdown.
 ## Semantic Web and RDF Ecosystem
 
 - [Apache Jena](https://jena.apache.org/) - Open-source Java framework for building RDF-based semantic web and linked data applications.
