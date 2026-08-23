@@ -144,6 +144,7 @@
 - [Znote](https://znote.io) - A productivity-focused note-taking app designed for doers to create notes with actionable steps.
 - [samarbeid](https://www.samarbeid.org/) - An open source collaboration tool for non-technical teams that helps to manage all workflows, documents, data and chats in a networked space.
 
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: write notes, track tasks, chat with an AI that knows your files — all plain Markdown.
 ## Semantic Web and RDF Ecosystem
 
 - [Apache Jena](https://jena.apache.org/) - Open-source Java framework for building RDF-based semantic web and linked data applications.
