@@ -89,6 +89,7 @@
 - [_Prtcl](http://www.uprtcl.io/) - A tool that combines the core ideas behind the World Wide Web and Git into the concept of Evolving Entities, or "Evees".
 - [Hypothesis](https://web.hypothes.is/) - A conversation layer over the entire web based on the annotation standards for digital documents developed by the [W3C Web Annotation Working Group](https://www.w3.org/annotation/).
 - [The Brain](https://www.thebrain.com/) - A notes editor with non-linear file management and powerful graph visualization features.
+- [Orano](https://oranoai.com/) - A mobile app that turns saved social media content (Reels, videos, articles, PDFs) into structured projects with summaries, action plans, and learning roadmaps.
 - [TiddlyRoam](https://joekroese.github.io/tiddlyroam/) - A [TiddlyWiki](https://tiddlywiki.com/) with bi-directional links and graph maps.
 - [Gingko](https://gingkoapp.com/) - A tool that lets you shape your ideas with lists, outlines and cards.
 - [Cotoami](https://www.patreon.com/cotoami) - A note-taking application for both personal and collaborative use.
