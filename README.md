@@ -80,7 +80,6 @@
 - [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks and AI chat. Plain markdown files, no accounts, no cloud. MIT.
 - [Contextualise](https://contextualise.dev/) - A tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources &mdash; structured thought.
 - [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
-- [KgBase](https://kgbase.com/) - A tool to build your own knowledge graphs without writing code.
 - [Polar](https://getpolarized.io/) - A knowledge manager for web pages, textbooks, PDFs, to read and study with remotely.
 - [Grakn](https://grakn.ai/) - An enterprise knowledge graph management system designed to scale.
 - [Notion](https://www.notion.so/) - An all-in-one workspace for your notes, tasks, wikis, and databases.
@@ -89,7 +88,6 @@
 - [Knovigator](https://knovigator.com/) - A tool to create threads of your best search queries and search results which can subsequently be remixed into blog posts, Twitter threads, and multi dimensional, asynchronous conversation.
 - [_Prtcl](http://www.uprtcl.io/) - A tool that combines the core ideas behind the World Wide Web and Git into the concept of Evolving Entities, or "Evees".
 - [Hypothesis](https://web.hypothes.is/) - A conversation layer over the entire web based on the annotation standards for digital documents developed by the [W3C Web Annotation Working Group](https://www.w3.org/annotation/).
-- [Transno](https://transno.com/) - An outline-based note-taking app with mind-mapping features.
 - [The Brain](https://www.thebrain.com/) - A notes editor with non-linear file management and powerful graph visualization features.
 - [TiddlyRoam](https://joekroese.github.io/tiddlyroam/) - A [TiddlyWiki](https://tiddlywiki.com/) with bi-directional links and graph maps.
 - [Gingko](https://gingkoapp.com/) - A tool that lets you shape your ideas with lists, outlines and cards.
@@ -136,7 +134,6 @@
 - [Archivy](https://archivy.github.io/) - A self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [mindlib](https://mindlib.de/) - A graph based knowledge management tool optimized for mobile use. Easy input via share, URL extraction and (semantic) suggestions from Wikipedia.
 - [wreeto](https://wreeto.com/) - A knowledge management tool specifically targetting software engineers.
-- [Kanopi](https://kanopi.io/) - Web-based personal knowledge management note taking tool.
 - [exegesis](https://exegesis.io/) - A writing app for caputuring and sharing disorganized, non-linear, creative thinking.
 - [Apache TinkerPop](https://tinkerpop.apache.org/) - A graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP).
 - [Infinity Maps](https://infinitymaps.io/en/) - A knowledge management system to help you organize, structure and share your knowledge.
@@ -170,6 +167,7 @@
 - [Burn 451](https://www.burn451.cloud) - An AI-powered reading tool that deletes what you never read and curates what you do. Editorial vaults for AI thought leaders (Karpathy, Simon Willison, Paul Graham, Naval Ravikant) plus hub concept pages on agentic engineering and vibe coding.
 - [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: write notes, track tasks, chat with an AI that knows your files — all plain Markdown.
 - [Verified Memory Vault](https://github.com/secondbrainstarter/verified-memory-vault) - An open-source Obsidian-based agent memory system: plain Markdown memory files with a deterministic Python linter (`memory_check.py`) that scores hygiene, and a git pre-commit hook guarding against mass deletions by the agent itself.
+- [file2markdown](https://www.file2markdown.ai/) - A browser-based converter that turns PDF, DOCX, PPTX, XLSX, HTML, EPUB and web pages into clean Markdown for your vault; free tier, MCP server for AI assistants.
 ## Semantic Web and RDF Ecosystem
 
 - [Apache Jena](https://jena.apache.org/) - Open-source Java framework for building RDF-based semantic web and linked data applications.
@@ -247,7 +245,7 @@
 
 - [Hypernote](https://hypernote.io/) - A text-first, always-ready, two-way-linked online notebook; currently in private beta (last updated: **July 12, 2020**).
 - [Rumin (Beta)](https://getrumin.com/) - A tool to visually organise online content (last updated: **October 18, 2020**).
-- [Athens](https://www.athensresearch.org/) - Open-source tool to link thoughts, reference key observations, and network your knowledge using a user-friendly outliner and knowledge graph (last updated: **July 26, 2021**).
+- [Athens](https://github.com/athensresearch/athens) - Open-source tool to link thoughts, reference key observations, and network your knowledge using a user-friendly outliner and knowledge graph (last updated: **July 26, 2021**).
 - [Mem](https://get.mem.ai/) - Notetaking with powerful search features (last updated: **December 15, 2021**).
 - [Reflect](https://reflect.app/) - Personal knowledge graph (last updated: **December 15, 2021**).
 - [Heptabase](https://heptabase.com/) - A note-taking tool for visual learning (last updated: **January 16, 2022**).
