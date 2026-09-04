@@ -168,6 +168,7 @@
 - [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: write notes, track tasks, chat with an AI that knows your files — all plain Markdown.
 - [Verified Memory Vault](https://github.com/secondbrainstarter/verified-memory-vault) - An open-source Obsidian-based agent memory system: plain Markdown memory files with a deterministic Python linter (`memory_check.py`) that scores hygiene, and a git pre-commit hook guarding against mass deletions by the agent itself.
 - [file2markdown](https://www.file2markdown.ai/) - A browser-based converter that turns PDF, DOCX, PPTX, XLSX, HTML, EPUB and web pages into clean Markdown for your vault; free tier, MCP server for AI assistants.
+- [Loofah](https://github.com/bart6114/loofah) - An MIT-licensed local-first workspace for meeting transcription and working knowledge stored as ordinary Markdown, with read-only MCP access for agents.
 ## Semantic Web and RDF Ecosystem
 
 - [Apache Jena](https://jena.apache.org/) - Open-source Java framework for building RDF-based semantic web and linked data applications.
