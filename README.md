@@ -186,6 +186,7 @@
 - [RDFLib](https://rdflib.readthedocs.io/en/stable/) - A pure Python package for working with RDF.
 - [EasyRDF](https://www.easyrdf.org/) - A PHP library designed to make it easy to consume and produce RDF.
 - [VOWL](http://vowl.visualdataweb.org/) - Visual Notation for OWL Ontologies.
+- [Astell](https://astell.ai) - The AI platform for humans. AI made a few people on your team very, very good. Astell helps you get there.
 
 ## Libraries
 
