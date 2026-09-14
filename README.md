@@ -169,6 +169,7 @@
 - [Verified Memory Vault](https://github.com/secondbrainstarter/verified-memory-vault) - An open-source Obsidian-based agent memory system: plain Markdown memory files with a deterministic Python linter (`memory_check.py`) that scores hygiene, and a git pre-commit hook guarding against mass deletions by the agent itself.
 - [file2markdown](https://www.file2markdown.ai/) - A browser-based converter that turns PDF, DOCX, PPTX, XLSX, HTML, EPUB and web pages into clean Markdown for your vault; free tier, MCP server for AI assistants.
 - [Mnemosyne OS](https://mnemosyne-os.io) - A desktop control room for AI memory: your files and conversations become searchable memory in vaults separated by domain, retrieved locally with BM25 fused with vector search, and you decide which vaults a given model is allowed to read. Windows, macOS, Linux.
+- [MDDock](https://mddock.com/) - A local-first Markdown editor and personal knowledge base: instant full-text and semantic search over your notes, an always-up-to-date wiki graph of your vault, and optional AI chat grounded in your own documents. Indexing and search run entirely on your device. macOS, Windows, iOS.
 ## Semantic Web and RDF Ecosystem
 
 - [Apache Jena](https://jena.apache.org/) - Open-source Java framework for building RDF-based semantic web and linked data applications.
