@@ -77,6 +77,7 @@
 
 ## Platforms, Applications and Tools
 
+- [SixSentences](https://github.com/SixSentences/sixsentences) - Self-hostable research workspace that links project knowledge, evidence, decisions and drafts, so each claim keeps a path back to the source and the step it came from. Apache-2.0.
 - [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks and AI chat. Plain markdown files, no accounts, no cloud. MIT.
 - [Contextualise](https://contextualise.dev/) - A tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources &mdash; structured thought.
 - [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
