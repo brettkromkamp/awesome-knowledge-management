@@ -253,3 +253,4 @@
 - [NotePlan](https://noteplan.co) - A personal knowledge management tool with two-way-linking with search and filters (last updated: **April 12, 2024**).
 - [AgentsKB](https://agentskb.com) - Pre-researched knowledge for AI agents. Not RAG - we already did the research. Your agent queries, gets the answer instantly.
 - [Memotron](https://memotron.app) - Comprehensive personal knowledge management tool with extensive clipping, capturing and organizing capabilities. (last updated: **June 06, 2025**).
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha encrypted, append-only knowledge store with a CLI and MCP retrieval through scoped, expiring grants.
