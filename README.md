@@ -169,6 +169,7 @@
 - [Verified Memory Vault](https://github.com/secondbrainstarter/verified-memory-vault) - An open-source Obsidian-based agent memory system: plain Markdown memory files with a deterministic Python linter (`memory_check.py`) that scores hygiene, and a git pre-commit hook guarding against mass deletions by the agent itself.
 - [file2markdown](https://www.file2markdown.ai/) - A browser-based converter that turns PDF, DOCX, PPTX, XLSX, HTML, EPUB and web pages into clean Markdown for your vault; free tier, MCP server for AI assistants.
 - [Mnemosyne OS](https://mnemosyne-os.io) - A desktop control room for AI memory: your files and conversations become searchable memory in vaults separated by domain, retrieved locally with BM25 fused with vector search, and you decide which vaults a given model is allowed to read. Windows, macOS, Linux.
+- [Marklore](https://github.com/Zhihua-Lee/marklore) - An open-source Windows desktop knowledge base over ordinary folders of Markdown files, built for notes that AI agents (Claude Code, Codex) draft and people refine: open notes re-render as files change, highlights and colors are applied on the rendered page and saved as inline HTML, and backlink counts appear beside linked headings and anchored paragraphs. MIT.
 ## Semantic Web and RDF Ecosystem
 
 - [Apache Jena](https://jena.apache.org/) - Open-source Java framework for building RDF-based semantic web and linked data applications.
