@@ -221,6 +221,7 @@
 
 - [Knowledge Graph Hub to produce a knowledge graph for COVID-19 and SARS-COV-2](https://github.com/Knowledge-Graph-Hub/kg-covid-19)
 - [metaphactory open Wikidata knowledge graph](https://wikidata.metaphacts.com/resource/app:Start)
+- [Three Shifts, Six Inversions — Knowledge Graph](https://0603wangxiao.github.io/36wx/kg/) - A single-file, zero-dependency Canvas knowledge graph of a self-authored analytical framework; every node opens to its definition and source.
 
 ## Related Awesome-Lists
 
