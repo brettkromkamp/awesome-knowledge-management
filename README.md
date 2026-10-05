@@ -76,6 +76,7 @@
 - [Knowledge Graphs, a Contextualise Topic Map](https://contextualise.dev/topics/view/15/home)
 
 ## Platforms, Applications and Tools
+- [AI Group Call](https://aigroupcall.app) - Facilitate a live AI panel: agents answer one at a time, build on each other, and leave notes and action items after the call.
 
 - [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks and AI chat. Plain markdown files, no accounts, no cloud. MIT.
 - [Contextualise](https://contextualise.dev/) - A tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources &mdash; structured thought.
