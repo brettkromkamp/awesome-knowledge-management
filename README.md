@@ -93,6 +93,7 @@
 - [Gingko](https://gingkoapp.com/) - A tool that lets you shape your ideas with lists, outlines and cards.
 - [Cotoami](https://www.patreon.com/cotoami) - A note-taking application for both personal and collaborative use.
 - [notegraph](http://notegraph.com/) - A tool that provides a way to visually organise information and ideas (not available, yet).
+- [Nostos](https://github.com/Christian-Gennari/Nostos) - An open-source personal library and knowledge environment connecting books, highlights, and longform writing.
 - [IdeaFlow](https://www.ideaflow.io/) - A human-AI hybrid platform to augment the collective intelligence of groups.
 - [Screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording for knowledge capture. Build AI apps with full context. Works with Ollama.
 - [Topincs](https://www.topincs.com/tour) - A topic maps-based 4GL platform for online systems.
