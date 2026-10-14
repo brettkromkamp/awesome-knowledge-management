@@ -221,6 +221,7 @@
 
 - [Knowledge Graph Hub to produce a knowledge graph for COVID-19 and SARS-COV-2](https://github.com/Knowledge-Graph-Hub/kg-covid-19)
 - [metaphactory open Wikidata knowledge graph](https://wikidata.metaphacts.com/resource/app:Start)
+- [BJJGraph](https://bjjgraph.org) - Brazilian jiu-jitsu as a knowledge graph: 133 positions and 1,315 techniques, each edge with authored gi and no-gi attempt and outcome probabilities, browsable as an interactive graph with flashcards.
 
 ## Related Awesome-Lists
 
