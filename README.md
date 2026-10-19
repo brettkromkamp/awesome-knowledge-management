@@ -99,6 +99,7 @@
 - [Org-roam](https://github.com/org-roam/org-roam) - A Roam replica built on top of the all-powerful [Org-mode](https://orgmode.org/) for Emacs.
 - [Graph Commons](https://graphcommons.com/) - A tool that allows you to transform your data into interactive maps and untangle complex relations that impact you and your communities.
 - [Stemic](https://stemic.app/) - A visual thinking tool that helps understanding.
+- [Omphalis](https://omphalis.ai) - A workspace to finish dense articles, PDFs, podcasts and video you saved; mark passages and keep notes on the source.
 - [Obsidian](https://obsidian.md/) - Commercial knowledge base software that works on top of a local folder of [Markdown](https://daringfireball.net/projects/markdown/syntax) files.
 - [Remio](https://remio.ai/) - A local-first personal knowledge base that pre-parses files, webpages, recordings, notes, emails, messages, and images into indexed and vector-retrievable context for faster search, synthesis, and AI agent workflows.
 - [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with a focus on building large personal knowledge bases.
