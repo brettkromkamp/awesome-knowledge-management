@@ -241,6 +241,7 @@
 - [A Visual Survey of Text Visualization Techniques](https://textvis.lnu.se/)
 - [Visualizing Group Structures in Graphs](http://groups-in-graphs.corinna-vehlow.com/)
 - [ArchiveBox](https://github.com/pirate/ArchiveBox) - An open source self-hosted internet archiving solution.
+- [Trigpoint](https://trigpoint.pub/) - A theory library where every entry names its original sources.
 
 ## Up and Coming
 
