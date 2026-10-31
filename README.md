@@ -75,6 +75,8 @@
 - [Ontology Generation and Visualization with Protégé](https://medium.com/@vindulajayawardana/ontology-generation-and-visualization-with-prot%C3%A9g%C3%A9-6df0af9955e0)
 - [Knowledge Graphs, a Contextualise Topic Map](https://contextualise.dev/topics/view/15/home)
 
+- [Build a Reading Tracker in Obsidian Bases](https://baseshelper.com/guides/reading-tracker/) - Track books with numeric page properties and a progress bar, with a downloadable practice vault and formula troubleshooting notes.
+
 ## Platforms, Applications and Tools
 
 - [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks and AI chat. Plain markdown files, no accounts, no cloud. MIT.
