@@ -253,3 +253,5 @@
 - [NotePlan](https://noteplan.co) - A personal knowledge management tool with two-way-linking with search and filters (last updated: **April 12, 2024**).
 - [AgentsKB](https://agentskb.com) - Pre-researched knowledge for AI agents. Not RAG - we already did the research. Your agent queries, gets the answer instantly.
 - [Memotron](https://memotron.app) - Comprehensive personal knowledge management tool with extensive clipping, capturing and organizing capabilities. (last updated: **June 06, 2025**).
+
+- [OneMira C1](https://onemira.com/products/c1) - Standalone AI voice recorder with Local AI summaries, automatic Speaker ID across 99 languages, Zero Cloud privacy ($0/month subscription), Google Native OKF Markdown Wiki, and native MCP/CLI integration ([GitHub](https://github.com/onemira-space/onemira-mcp)).
