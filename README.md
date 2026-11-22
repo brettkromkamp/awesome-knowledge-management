@@ -111,6 +111,7 @@
 - [TopicSplit](https://github.com/andrwspt/topicsplit) — Free offline semantic text grouper. Splits pasted text into topic segments by meaning, not word count. Perfect for atomizing articles into atomic notes for Obsidian, Logseq, and Zettelkasten workflows. 100% client-side, no tracking.
 - [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki) - An open-source extension to MediaWiki that that can turn a wiki into a powerful and flexible knowledge management system.
 - [mymind](https://mymind.com/) - Save notes, bookmarks, web clippings and documents for subsequent automatic categorization.
+- [BrainTube](https://brain-tube.com/) - Saves YouTube videos, podcasts, articles and notes into a searchable personal knowledge base that Claude and ChatGPT can query through MCP, with answers cited to the saved item.
 - [Loopy](https://ncase.me/loopy/) - A tool that includes simulations and visual programming for thinking in systems.
 - [Zotero](https://www.zotero.org/) - A free tool to help you collect, organize, cite, and share research.
 - [Dendron](https://www.dendron.so/) - A local-first, markdown based, hierarchical note-taking application built on top of Visual Studio Code.
